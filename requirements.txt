@@ -4,3 +4,4 @@ feedparser
 rapidfuzz
 streamlit
 pandas
+plotly
