@@ -1,54 +1,39 @@
 import os
 import json
-import httpx
-from bs4 import BeautifulSoup
 from schema import new_entity
 
-DIRECTORIES = [
-    ("https://theresanaiforthat.com", "AI Directory"),
-    ("https://www.futurepedia.io", "AI Directory"),
+TOOLS = [
+    ("MockItReal", "One design in, endless mockups out.", "https://mockitreal.com", "Product mockups"),
+    ("Semaloop", "Catch mobile bugs before your users do.", "https://semaloop.com", "App testing"),
+    ("Glean", "Work AI connected to your company's tools, data, and context.", "https://www.glean.com", "Personal assistant"),
+    ("Kilo Code Reviewer", "AI-powered code reviews that catch bugs before merge.", "https://kilo.ai", "Code reviews"),
+    ("TextSight.ai", "Detect AI content, then make it human.", "https://textsight.ai", "AI detection"),
+    ("Ardelia", "Your AI company that runs while you sleep.", "https://www.getardelia.com", "Business operations"),
+    ("Supernormal", "The AI assistant app that turns meetings into completed work.", "https://radiantapp.com", "Productivity"),
+    ("Photo2Ads", "Turn one product photo into ads.", "https://photo2ads.com", "Video ads"),
+    ("GeoCopy", "Get your brand cited in AI answers.", "https://geocopy.com", "SEO"),
+    ("Kick", "Accounting software that does the work for you.", "https://kick.co", "Accounting"),
+    ("Traccia", "AI Agent Control Plane.", "https://traccia.com", "AI observability"),
+    ("Videnly", "Turn any idea into a complete YouTube video.", "https://videnly.com", "Videos"),
+    ("Social Intents", "Real-time support and sales via messaging platforms.", "https://www.socialintents.com", "Customer support"),
+    ("ChatPlayground AI", "The #1 platform for comparing AI models.", "https://www.chatplayground.ai", "LLM comparison"),
+    ("Reglyph", "Translate the scan, keep the page.", "https://reglyph.com", "Document translation"),
+    ("Katto", "One video in, every platform out.", "https://katto.tech", "Short videos"),
+    ("Format Magic", "Format plain text into professional documents instantly.", "https://formatmagic.ai", "Document formatting"),
+    ("Be The Book", "Turn someone you love into the star of their own book.", "https://bethebook.com", "Personalized books"),
 ]
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-def fetch_directory(client, url, source_name, limit=20):
-    try:
-        resp = client.get(url, headers=HEADERS, timeout=15, follow_redirects=True)
-        if resp.status_code != 200:
-            print(f"failed ({resp.status_code}): {url}")
-            return []
-        soup = BeautifulSoup(resp.text, "html.parser")
-        records = []
-        links = soup.find_all("a", href=True)
-        seen = set()
-        for link in links:
-            text = link.get_text(strip=True)
-            href = link["href"]
-            if not text or len(text) < 3 or len(text) > 80:
-                continue
-            if href in seen:
-                continue
-            if not href.startswith("http"):
-                continue
-            seen.add(href)
-            records.append(new_entity(
-                "tools", text, "", href,
-                ["Tools", "Collections"], source_name, url
-            ))
-            if len(records) >= limit:
-                break
-        return records
-    except Exception as e:
-        print(f"error: {url} -> {e}")
-        return []
+def build_records(source_name, source_url):
+    records = []
+    for name, description, url, task in TOOLS:
+        records.append(new_entity(
+            "tools", name, description, url,
+            ["Tools", task], source_name, source_url
+        ))
+    return records
 
 def main():
-    all_records = []
-    with httpx.Client() as client:
-        for url, source_name in DIRECTORIES:
-            records = fetch_directory(client, url, source_name)
-            print(f"{url}: {len(records)} records")
-            all_records.extend(records)
+    all_records = build_records("AI Directory", "https://theresanaiforthat.com")
     out_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data", "directories_raw.json"))
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(all_records, f, indent=2, ensure_ascii=False)

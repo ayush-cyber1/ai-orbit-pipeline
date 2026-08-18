@@ -1,1502 +1,1182 @@
 [
   {
-    "id": "ef590989-bd35-42b2-83cc-bb822eefbc72",
-    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "id": "9a160616-fd9b-4fab-a4e4-7a9b424e7f4b",
+    "from_id": "7fbf46b5-a5e8-4035-9ca0-8f9443b20697",
     "from_name": "modelcontextprotocol/python-sdk",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "f1acedd3-162d-46c4-a87a-de0fb692e159",
-    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "id": "ee92fbf4-a17e-4ce0-ac11-843a1faa0aba",
+    "from_id": "7fbf46b5-a5e8-4035-9ca0-8f9443b20697",
     "from_name": "modelcontextprotocol/python-sdk",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "b8082a24-44c0-47cd-9919-cb2d15bfc666",
-    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "id": "7602dfed-f761-4eba-b0dd-a674eb873e6f",
+    "from_id": "7fbf46b5-a5e8-4035-9ca0-8f9443b20697",
     "from_name": "modelcontextprotocol/python-sdk",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "1a19f598-d4d8-415e-9c0a-cc82f39a0fae",
-    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "id": "aadbc714-d835-42fb-9c1c-9c03d125c777",
+    "from_id": "f06b6af1-fff7-44ff-88c5-957e13b0f778",
     "from_name": "modelcontextprotocol/typescript-sdk",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "4bef9d50-231f-400e-ba3f-402306ff5ce3",
-    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "id": "0d0f1a1f-45a4-4011-be0f-655ed6876083",
+    "from_id": "f06b6af1-fff7-44ff-88c5-957e13b0f778",
     "from_name": "modelcontextprotocol/typescript-sdk",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "0efac347-5025-4d65-bf51-11eb5999da9d",
-    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "id": "5e676910-2f45-4c48-948e-a74420ecb653",
+    "from_id": "f06b6af1-fff7-44ff-88c5-957e13b0f778",
     "from_name": "modelcontextprotocol/typescript-sdk",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "269c6abb-ba9f-452d-a839-d571ba7b708c",
-    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "id": "d5f9a40c-3633-4d97-b361-cfef6ecfb74f",
+    "from_id": "1a7c6f7a-fdbd-4301-b98a-442946434521",
     "from_name": "hangwin/mcp-chrome",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "a7f61114-e9a3-4d43-bee3-cb82c976deeb",
-    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "id": "48cffff4-9d1b-48d7-aa2e-c728efd2a22c",
+    "from_id": "1a7c6f7a-fdbd-4301-b98a-442946434521",
     "from_name": "hangwin/mcp-chrome",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "1658cf14-f577-4297-8996-0ccbd2b98448",
-    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "id": "62609d02-0c08-4b69-93eb-dbc53da8df66",
+    "from_id": "1a7c6f7a-fdbd-4301-b98a-442946434521",
     "from_name": "hangwin/mcp-chrome",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "bddb19c8-280c-4edb-b390-e70f1738303b",
-    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "id": "bbd950ed-4f28-42f2-b526-7b3976262b44",
+    "from_id": "441d780b-8921-4b4a-971f-416dc4bd5e2c",
     "from_name": "modelcontextprotocol/registry",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "5a3dd9ce-60b3-4bcd-997b-d95c1f870dd6",
-    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "id": "b8919ea3-0466-4ba7-9a76-8121c5542e2a",
+    "from_id": "441d780b-8921-4b4a-971f-416dc4bd5e2c",
     "from_name": "modelcontextprotocol/registry",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "a39f1ab4-8e35-473e-9b40-cca086c2c7be",
-    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "id": "a44bb1f9-2fcf-403d-8556-03b8e4c06aad",
+    "from_id": "441d780b-8921-4b4a-971f-416dc4bd5e2c",
     "from_name": "modelcontextprotocol/registry",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "1a7a8ef0-0b0a-4305-b455-623502641212",
-    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "id": "812cf79c-1eaf-4363-bb6a-647cfe5b6c9f",
+    "from_id": "22d1c00e-e1c6-48ac-90a1-284094aa902b",
     "from_name": "getsentry/XcodeBuildMCP",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "cf313fed-453e-4471-bd44-12752ad12a9c",
-    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "id": "452e5852-5fc2-45cb-a43d-d56dfa5b2769",
+    "from_id": "22d1c00e-e1c6-48ac-90a1-284094aa902b",
     "from_name": "getsentry/XcodeBuildMCP",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "2aeb44e4-3480-4d64-bc9a-f088a15f8d9c",
-    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "id": "d7f68d7c-4dc6-43de-acd4-1e679490e5f8",
+    "from_id": "22d1c00e-e1c6-48ac-90a1-284094aa902b",
     "from_name": "getsentry/XcodeBuildMCP",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "0941a1e3-3ff6-4738-83e3-3ebf91896d7a",
-    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "id": "12543ea1-bc04-46b5-88d0-59d4fbaa97a7",
+    "from_id": "1bf8d85c-4619-4d51-8d2e-8e70a8aa3709",
     "from_name": "mobile-next/mobile-mcp",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "3a38eba4-af11-49bd-846a-96bfdbc34bdf",
-    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "id": "b59405fc-79e0-4971-a2a2-b54d67f13141",
+    "from_id": "1bf8d85c-4619-4d51-8d2e-8e70a8aa3709",
     "from_name": "mobile-next/mobile-mcp",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "e1da866a-6c82-4178-a827-eae67bc8421a",
-    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "id": "718f5775-16d0-4474-b0a6-84ac576251c1",
+    "from_id": "1bf8d85c-4619-4d51-8d2e-8e70a8aa3709",
     "from_name": "mobile-next/mobile-mcp",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "a577696c-cb43-443f-9552-8675e7c2c68f",
-    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "id": "e6baa4b4-daf8-4270-9344-ee3789ed9d17",
+    "from_id": "a247ba10-1e27-41e4-b64a-a5cad35cb4fe",
     "from_name": "jacob-bd/gemini-notebook-mcp-cli",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "08e65f8a-a3da-4c7e-b45b-cb79e658dcfe",
-    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "id": "b8da03f0-f6a8-4f7b-8b1d-5a77860660d9",
+    "from_id": "a247ba10-1e27-41e4-b64a-a5cad35cb4fe",
     "from_name": "jacob-bd/gemini-notebook-mcp-cli",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "25c07c7f-e6a8-42a4-8454-6fd208038a33",
-    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "id": "88a2cd1d-0654-4a46-b5a3-7f54ae390669",
+    "from_id": "a247ba10-1e27-41e4-b64a-a5cad35cb4fe",
     "from_name": "jacob-bd/gemini-notebook-mcp-cli",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "4b55ab5c-40ed-409c-8cb5-14a733f35ff0",
-    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "id": "e1395274-daf5-4ec9-bcc7-61269a2dd3ca",
+    "from_id": "f3b4a55b-1ac7-4ec0-bb60-e5c3ff7b1036",
     "from_name": "appcypher/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "8585d0d2-8b2a-4ab5-8fda-c1aa27b731e2",
-    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "id": "262c39e4-edb6-4637-899d-d1522e9ecda0",
+    "from_id": "f3b4a55b-1ac7-4ec0-bb60-e5c3ff7b1036",
     "from_name": "appcypher/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "c62a6f44-80d3-4f11-91fe-91b998686c78",
-    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "id": "46231525-ae33-47d2-b156-07644520d842",
+    "from_id": "f3b4a55b-1ac7-4ec0-bb60-e5c3ff7b1036",
     "from_name": "appcypher/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "77d56553-8956-47de-8248-08284b153ccb",
-    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "id": "5d31a799-489f-47b8-ae2c-9b3333bd2251",
+    "from_id": "85b1923e-516c-4da5-aa60-81b078453e8e",
     "from_name": "executeautomation/mcp-playwright",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "05ebf5aa-7d89-4a9e-b8e7-e90eee3412e7",
-    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "id": "4dcaaf9b-2dc0-4de7-baab-e5bf381a0b9a",
+    "from_id": "85b1923e-516c-4da5-aa60-81b078453e8e",
     "from_name": "executeautomation/mcp-playwright",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "75535cdf-2225-42aa-8d2e-cc43a9dba200",
-    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "id": "61dbcf5a-97f0-4b55-8c2a-08d76b5eaa7b",
+    "from_id": "85b1923e-516c-4da5-aa60-81b078453e8e",
     "from_name": "executeautomation/mcp-playwright",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "b67a086c-7a07-43ee-82fa-dfaf3e4ccd6c",
-    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "id": "372678ab-9775-4f13-8c57-ddf300e4ca29",
+    "from_id": "da65dbbc-14bb-4aac-8dde-e86da70a8439",
     "from_name": "nanbingxyz/5ire",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "3e117f31-a0f3-48d0-ad39-a4cd654b16c2",
-    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "id": "fff0a7e3-3a5d-405a-be75-1e5e016e0491",
+    "from_id": "da65dbbc-14bb-4aac-8dde-e86da70a8439",
     "from_name": "nanbingxyz/5ire",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "496aa378-b411-49d4-9f05-f479a6998920",
-    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "id": "ec98b927-ca1a-4fd0-8d95-3d94fcb0d0eb",
+    "from_id": "da65dbbc-14bb-4aac-8dde-e86da70a8439",
     "from_name": "nanbingxyz/5ire",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "1af8e6e6-8aff-4a59-a8bb-e767f74ab0e5",
-    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "id": "c1eaf1ea-a8cb-4b1b-b6ec-f4b937108c5e",
+    "from_id": "1212806d-8fb0-41e4-9227-0b54cf215c61",
     "from_name": "modelcontextprotocol/csharp-sdk",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "3e4b59ca-cbf4-4aee-b89a-12ea4ca39a9f",
-    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "id": "063cdb16-074f-42db-a589-31dcbe6dc0a5",
+    "from_id": "1212806d-8fb0-41e4-9227-0b54cf215c61",
     "from_name": "modelcontextprotocol/csharp-sdk",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "5d488691-c5b7-4d3e-8daf-4474c75d5d39",
-    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "id": "4e7275bf-b043-44ca-8c68-efeaf8aed5e3",
+    "from_id": "1212806d-8fb0-41e4-9227-0b54cf215c61",
     "from_name": "modelcontextprotocol/csharp-sdk",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "588ab4b8-0204-4238-9839-23757f71f4db",
-    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "id": "0c185763-0ff7-4f50-8213-b7f888481d3b",
+    "from_id": "7a552505-1be1-4346-963c-6d13d05ff96e",
     "from_name": "Pimzino/spec-workflow-mcp",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "7de3f6f6-1e62-4ef2-be06-912568910b5f",
-    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "id": "60711966-bb0d-4960-baa0-d2207d7807a7",
+    "from_id": "7a552505-1be1-4346-963c-6d13d05ff96e",
     "from_name": "Pimzino/spec-workflow-mcp",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "5ef88061-737e-4bb7-8b3a-e9310b8f1e80",
-    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "id": "549c1d58-9d7d-4b98-af03-a79248bbbd9e",
+    "from_id": "7a552505-1be1-4346-963c-6d13d05ff96e",
     "from_name": "Pimzino/spec-workflow-mcp",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "9e964a99-42fb-4b2b-b1b4-13e60e3218fe",
-    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "id": "bf813dcd-24c6-4535-b580-8aa2e3934865",
+    "from_id": "56e7a36c-e41b-4268-ba70-bae944b75bdb",
     "from_name": "wong2/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "76da0635-b5f1-450a-83a1-3af1de87795a",
-    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "id": "c299a132-9805-4e5d-82bb-009c4da76efb",
+    "from_id": "56e7a36c-e41b-4268-ba70-bae944b75bdb",
     "from_name": "wong2/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "f8940754-9e36-4237-bc38-f86e0cdf860c",
-    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "id": "d756e32d-5111-4f37-98bd-02b5e072be5b",
+    "from_id": "56e7a36c-e41b-4268-ba70-bae944b75bdb",
     "from_name": "wong2/awesome-mcp-servers",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "01406ebf-1558-4b22-bd82-e84c7144e1b1",
-    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "id": "7f7022cc-372c-4999-9edf-a6de6657d18a",
+    "from_id": "9cbebb36-0fcf-4974-8589-f8a0a42909c9",
     "from_name": "haris-musa/excel-mcp-server",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "6a4138dd-a8da-4e43-b758-9974a9468023",
-    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "id": "2e72a9b5-db8d-4a89-b9d8-9e96553dcef6",
+    "from_id": "9cbebb36-0fcf-4974-8589-f8a0a42909c9",
     "from_name": "haris-musa/excel-mcp-server",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "18b72de0-a447-4ec5-8d1d-ed2cac296a9c",
-    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "id": "d755c2ca-5ea0-4ab2-bb23-13e492a4b013",
+    "from_id": "9cbebb36-0fcf-4974-8589-f8a0a42909c9",
     "from_name": "haris-musa/excel-mcp-server",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "113e183a-1324-44a3-89c2-faadc6486464",
-    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "id": "76990433-f3e4-4845-88a8-9641611172af",
+    "from_id": "c9a70b63-c8da-4e10-a0ac-2e38099cddea",
     "from_name": "opensumi/core",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "f7a07967-6609-4d5d-8451-9dc718d050d9",
-    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "id": "6ad78ee4-b6ab-4935-af8d-fa085028f079",
+    "from_id": "c9a70b63-c8da-4e10-a0ac-2e38099cddea",
     "from_name": "opensumi/core",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "71be4867-a790-4640-81df-77212598be8f",
-    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "id": "c3aee97d-960c-439c-a4cb-8eb0092e6e94",
+    "from_id": "c9a70b63-c8da-4e10-a0ac-2e38099cddea",
     "from_name": "opensumi/core",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "1a670bb5-5c41-491e-a57f-2bebb1d43d12",
-    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "id": "181e7c9e-af64-433b-aeac-df6208a3e803",
+    "from_id": "82a091e7-6051-4ade-8071-2c2f3279c488",
     "from_name": "microsoft/mcp",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "3114c999-066f-440f-97b1-24866ea476f5",
-    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "id": "f81b06ec-238b-4d4e-a804-a88c0ab9c919",
+    "from_id": "82a091e7-6051-4ade-8071-2c2f3279c488",
     "from_name": "microsoft/mcp",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "778dbbe5-ea71-429b-9402-4265d9e6b7eb",
-    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "id": "ae479057-4f5b-46ab-9e49-bf71d5b38910",
+    "from_id": "82a091e7-6051-4ade-8071-2c2f3279c488",
     "from_name": "microsoft/mcp",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "9fb037be-1686-451c-ba0d-d4b5c877ae3d",
-    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "id": "18259beb-a78f-4e6d-9113-810cfb885a86",
+    "from_id": "2e02bc16-8162-4a77-a852-215331ac8d75",
     "from_name": "blazickjp/arxiv-mcp-server",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "51b2acde-3d6e-4150-9866-956f339725be",
-    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "id": "ad10e257-c7ca-443a-a6c4-94cef11670ea",
+    "from_id": "2e02bc16-8162-4a77-a852-215331ac8d75",
     "from_name": "blazickjp/arxiv-mcp-server",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "330a742c-4815-4d44-82e2-78233e1b0e33",
-    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "id": "4ab4e89c-b6f7-4035-874a-4e380036d8f9",
+    "from_id": "2e02bc16-8162-4a77-a852-215331ac8d75",
     "from_name": "blazickjp/arxiv-mcp-server",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "2088f374-2b6f-4006-92ae-3779ec96882d",
-    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "id": "8bdf03e7-094b-4dd9-9732-511358492927",
+    "from_id": "23ded2f7-f80d-4e92-a902-e948ac0adc1b",
     "from_name": "zcaceres/markdownify-mcp",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "418ddc4a-e516-41ad-810a-46c4f35db179",
-    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "id": "e384a529-6dee-45c8-9871-83577358f2f7",
+    "from_id": "23ded2f7-f80d-4e92-a902-e948ac0adc1b",
     "from_name": "zcaceres/markdownify-mcp",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "9db8c0a6-bc39-4c31-9839-652e58b57118",
-    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "id": "ae7ec455-2f16-40b8-af1f-1d995ca194c0",
+    "from_id": "23ded2f7-f80d-4e92-a902-e948ac0adc1b",
     "from_name": "zcaceres/markdownify-mcp",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "fa2b6b41-37cd-439d-9e64-1b85b2a8089f",
-    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "id": "2418150a-fccc-4cab-8667-1e09fcfbb970",
+    "from_id": "bcdb98d2-b6db-4bd4-9f4f-38b584351368",
     "from_name": "langchain4j/langchain4j",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "7a478761-8a26-4f69-9c58-1aef0bc2c9c2",
-    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "id": "71b056e1-ebaa-4f6e-b507-800b3efd9538",
+    "from_id": "bcdb98d2-b6db-4bd4-9f4f-38b584351368",
     "from_name": "langchain4j/langchain4j",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "71a8cac6-6d97-479e-bad5-0015247af7bf",
-    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "id": "869f2cbc-f3df-4e5d-ab57-d6057befdabf",
+    "from_id": "bcdb98d2-b6db-4bd4-9f4f-38b584351368",
     "from_name": "langchain4j/langchain4j",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "67bd8e56-9ff8-47fc-8e39-94ba4b43a7a7",
-    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "id": "657d8514-3e0a-4ff9-9ed7-c095e68beb9e",
+    "from_id": "da171a78-036c-476b-a25a-35ad1f868982",
     "from_name": "holaboss-ai/holaOS",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "310608d9-a4b6-4b2d-bb4b-88c62ae02c70",
-    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "id": "1d712f2c-c013-46e6-bb15-1ef097c72008",
+    "from_id": "da171a78-036c-476b-a25a-35ad1f868982",
     "from_name": "holaboss-ai/holaOS",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "353904dd-45fc-4cf7-ac1b-62528c2064a5",
-    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "id": "668c1912-b263-45a4-9e2d-34f5413f2a29",
+    "from_id": "da171a78-036c-476b-a25a-35ad1f868982",
     "from_name": "holaboss-ai/holaOS",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "0162eb57-05d0-49f0-894a-e133377d0dc6",
-    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "id": "4ed05681-5e9f-45a5-a22d-6cd3ddad2f03",
+    "from_id": "8dbdf65a-80f7-4afa-8e27-5c0c70cea109",
     "from_name": "mark3labs/mcp-go",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "d008da29-9eb3-4493-b772-eee8e3a4ed3a",
-    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "id": "345bc657-2e72-417a-a2a7-5d1191e95f94",
+    "from_id": "8dbdf65a-80f7-4afa-8e27-5c0c70cea109",
     "from_name": "mark3labs/mcp-go",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "450e9e10-7154-4cae-ab71-59d530aeaf57",
-    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "id": "c93782ff-3970-46f8-8936-6f8761de9dee",
+    "from_id": "8dbdf65a-80f7-4afa-8e27-5c0c70cea109",
     "from_name": "mark3labs/mcp-go",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "e27c123d-28c5-4c44-9226-fd2b4feaf4d5",
-    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "id": "bfa0d86b-6d39-497a-b301-eb792275e7e6",
+    "from_id": "14766421-3157-43d6-a262-24c30934cfc4",
     "from_name": "Klavis-AI/klavis",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "c4006fb0-4baf-4487-8d0d-604faf016a06",
-    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "id": "c1b22fca-ef87-44db-a7ac-43e687d718ff",
+    "from_id": "14766421-3157-43d6-a262-24c30934cfc4",
     "from_name": "Klavis-AI/klavis",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "db7cacd0-3ced-4d21-9f10-082f621df346",
-    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "id": "f8d3e878-5958-433b-a3b9-8a39a79f0297",
+    "from_id": "14766421-3157-43d6-a262-24c30934cfc4",
     "from_name": "Klavis-AI/klavis",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "9613df32-0c05-4a6e-b1f5-2426b604c6da",
-    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "id": "e85c60af-e068-46af-99ab-f336c66ea7c1",
+    "from_id": "0c2cdd18-2da3-4376-9147-d732d35bdc44",
     "from_name": "aipotheosis-labs/aci",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "d996e188-93f4-4681-a7bf-66982fef7f24",
-    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "id": "7f73d4c2-28ea-4264-86ae-54829f00d630",
+    "from_id": "0c2cdd18-2da3-4376-9147-d732d35bdc44",
     "from_name": "aipotheosis-labs/aci",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "91781d2f-c9e6-4aa4-a65b-30cf65fb83cb",
-    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "id": "869207e7-5e3c-4907-9896-f431b2b8c65b",
+    "from_id": "0c2cdd18-2da3-4376-9147-d732d35bdc44",
     "from_name": "aipotheosis-labs/aci",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "ae4ceb78-dda8-4b38-b896-8c0718da563e",
-    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "id": "60d4e142-803d-428d-a067-ff6b279da42e",
+    "from_id": "90eb51b3-eb68-4968-9c13-d0c43397e5fc",
     "from_name": "53AI/53AIHub",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "0c5a3d74-477b-4012-858a-bde6af394ca2",
-    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "id": "9b70af17-ed66-4c97-94ad-33b387d58611",
+    "from_id": "90eb51b3-eb68-4968-9c13-d0c43397e5fc",
     "from_name": "53AI/53AIHub",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "de54b8ef-9d0e-45db-b119-4b8bee3d276f",
-    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "id": "ce339693-90a1-4384-b91a-1e0265a8aa8a",
+    "from_id": "90eb51b3-eb68-4968-9c13-d0c43397e5fc",
     "from_name": "53AI/53AIHub",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "72394dee-650c-45bd-84d2-9114cac946d6",
-    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "id": "525010b2-6996-4ccc-9ce3-59a5e6011660",
+    "from_id": "4fe81163-dd1d-4fda-8889-477eb69e3dd0",
     "from_name": "bethington/ghidra-mcp",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "c0f9d035-81e6-47a4-ad7e-d2cf701d7712",
-    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "id": "13ee14b8-403d-4a4b-ae43-5cf8b7d9a005",
+    "from_id": "4fe81163-dd1d-4fda-8889-477eb69e3dd0",
     "from_name": "bethington/ghidra-mcp",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "38908751-39f0-4693-8476-31acb2a4ce47",
-    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "id": "20372b64-8f15-40e3-8a29-ce0bbd4ab2d9",
+    "from_id": "4fe81163-dd1d-4fda-8889-477eb69e3dd0",
     "from_name": "bethington/ghidra-mcp",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "19370047-7703-4965-820f-a4e9c0d9ba6c",
-    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "id": "68b8c4c4-4e76-49f0-8d35-2717e0242961",
+    "from_id": "cf8d0420-cc2e-435e-b081-52ab37ffdf4c",
     "from_name": "superglue-ai/superglue",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "5b0f7dac-1aa4-44d3-9d26-e60a4003dd37",
-    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "id": "779028c3-311c-446a-b393-e9ac8a38ee5f",
+    "from_id": "cf8d0420-cc2e-435e-b081-52ab37ffdf4c",
     "from_name": "superglue-ai/superglue",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "23f389e2-e546-45c7-9c4a-b3c37f43026e",
-    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "id": "56a47b78-68c6-4b66-8c88-084202018d8e",
+    "from_id": "cf8d0420-cc2e-435e-b081-52ab37ffdf4c",
     "from_name": "superglue-ai/superglue",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "cecdab9d-2dd2-4ebc-aacd-feb095726710",
-    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "id": "755e7f4e-f738-4ba0-81f3-b0c22ebff977",
+    "from_id": "3c85c419-c62d-478c-9163-c4c7a9820d4c",
     "from_name": "OpenCoworkAI/open-cowork",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "6f8175c2-dc31-4bf7-a4e0-db01214502e5",
-    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "id": "7c0c21f8-c4e4-4b72-8517-4ea3a12a1465",
+    "from_id": "3c85c419-c62d-478c-9163-c4c7a9820d4c",
     "from_name": "OpenCoworkAI/open-cowork",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "01bcde59-5ad8-4b03-b4b6-2f3a64ae3cea",
-    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "id": "e96f018d-8649-4459-8e47-1abf3483bbcf",
+    "from_id": "3c85c419-c62d-478c-9163-c4c7a9820d4c",
     "from_name": "OpenCoworkAI/open-cowork",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "024c013f-0945-47b9-9f12-6756264fbc56",
-    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "id": "18f4d20c-d627-4988-934f-fe6fe6c0e467",
+    "from_id": "ec0fe344-06d9-4269-92d2-b8f2cb40a111",
     "from_name": "RTGS2017/NagaAgent",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "b0e3fd58-501d-4c93-b7f7-561b6bd0ce47",
-    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "id": "43b00660-37c6-4e73-8ea9-4bb63dd6ebb2",
+    "from_id": "ec0fe344-06d9-4269-92d2-b8f2cb40a111",
     "from_name": "RTGS2017/NagaAgent",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "c5071a1e-a0d0-486f-820c-9e58d704e909",
-    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "id": "acd551eb-141f-4522-9d6f-b493f7e2732b",
+    "from_id": "ec0fe344-06d9-4269-92d2-b8f2cb40a111",
     "from_name": "RTGS2017/NagaAgent",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "b4069a1f-c9b1-4d82-9950-5be08bb019f1",
-    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "id": "19068e5d-f9c2-4c26-801e-3382d0f3f56c",
+    "from_id": "e6c11372-807e-4af5-8dad-e277b0249220",
     "from_name": "AI-QL/tuui",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "60bd8307-1606-4d59-b59c-0e182b4b0727",
-    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "id": "47834b06-a136-495c-b8a9-dd749ebfd505",
+    "from_id": "e6c11372-807e-4af5-8dad-e277b0249220",
     "from_name": "AI-QL/tuui",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "e628456b-e536-4ee4-893f-2ba20e668340",
-    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "id": "56373987-93d5-4e7a-8e6f-6037da1d2534",
+    "from_id": "e6c11372-807e-4af5-8dad-e277b0249220",
     "from_name": "AI-QL/tuui",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "781f739a-f6fe-421b-ac75-ffbebdd8371e",
-    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "id": "1372e82c-4470-42e6-8d5a-6bd507c03533",
+    "from_id": "4ddddc53-3672-43af-809a-13550d6b8b2d",
     "from_name": "affaan-m/agentshield",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "b1bb574c-3b26-4f1d-8ce4-ff4d148238cc",
-    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "id": "9796cfca-db70-4fa8-bd42-efef8b68fef9",
+    "from_id": "4ddddc53-3672-43af-809a-13550d6b8b2d",
     "from_name": "affaan-m/agentshield",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "38861dd3-c0d4-46ec-ba16-3de66128b219",
-    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "id": "e9024e52-0c9b-4e9f-8887-4642680bc449",
+    "from_id": "4ddddc53-3672-43af-809a-13550d6b8b2d",
     "from_name": "affaan-m/agentshield",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "c19401c2-c2ba-4a90-86c9-03292b534559",
-    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "id": "095f9af0-02ed-4dee-97bf-33f3307147f8",
+    "from_id": "cedf9c64-dc70-4729-b18e-523bc01b9629",
     "from_name": "Anil-matcha/awesome-openclaw",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "4bbf3761-05de-48ef-a3aa-ca249a28afe8",
-    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "id": "c8830cfe-e73f-4b86-aa64-c7ca8cbbee81",
+    "from_id": "cedf9c64-dc70-4729-b18e-523bc01b9629",
     "from_name": "Anil-matcha/awesome-openclaw",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "2e48799f-9131-456e-9feb-eb39a50dceed",
-    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "id": "80acb143-2e22-43a5-a819-0b9386b03256",
+    "from_id": "cedf9c64-dc70-4729-b18e-523bc01b9629",
     "from_name": "Anil-matcha/awesome-openclaw",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "102849e1-d66c-4d87-9fe4-f871fbad2c68",
-    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "id": "0776afca-20f5-4aac-a538-5a66c9332841",
+    "from_id": "3704cf64-38f0-4360-a09c-62c8438316d2",
     "from_name": "agentic-community/mcp-gateway-registry",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "4ffc8d0b-36b1-4bc1-9060-301f2d7bb13b",
-    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "id": "af4923d9-37a4-4d82-a942-e0b9105818a4",
+    "from_id": "3704cf64-38f0-4360-a09c-62c8438316d2",
     "from_name": "agentic-community/mcp-gateway-registry",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "8441efdd-eb34-4723-b85b-e86bdfb7be76",
-    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "id": "d1b80189-ca4e-4370-b7a8-d7c0933694c1",
+    "from_id": "3704cf64-38f0-4360-a09c-62c8438316d2",
     "from_name": "agentic-community/mcp-gateway-registry",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "83f39791-052b-424e-9ce2-c7bb4a24357f",
-    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "id": "ada251f4-f8d7-42d2-82e9-bacea8526dfa",
+    "from_id": "0b601ca7-0ce3-45ae-8727-6422a4ed1ec3",
     "from_name": "jacksteamdev/obsidian-mcp-tools",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "884602a6-1366-462e-9185-3254d8efe849",
-    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "id": "8342d0d1-a28d-4209-859f-9424b658ac7a",
+    "from_id": "0b601ca7-0ce3-45ae-8727-6422a4ed1ec3",
     "from_name": "jacksteamdev/obsidian-mcp-tools",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "5e8f1bc9-96bf-4ab0-b706-123a6c254a6f",
-    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "id": "d1b23a7c-9fd7-48ac-869f-7a89a8efa364",
+    "from_id": "0b601ca7-0ce3-45ae-8727-6422a4ed1ec3",
     "from_name": "jacksteamdev/obsidian-mcp-tools",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "25daaf32-0fd2-4aeb-8631-f9a432bace0a",
-    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "id": "a8bbf84c-2af9-4182-8f4e-b4ae38b4c7e5",
+    "from_id": "69f6ff0d-99c1-4ac1-9ab5-43cc233c14fb",
     "from_name": "braincrew-lab/langgraph-mcp-agents",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "f3daba7e-c238-4b73-aea7-12b43f52ad23",
-    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "id": "e77a77a5-447e-4385-8cae-610fa3d30679",
+    "from_id": "69f6ff0d-99c1-4ac1-9ab5-43cc233c14fb",
     "from_name": "braincrew-lab/langgraph-mcp-agents",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "34233a47-46e9-462a-a36a-938fec78c165",
-    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "id": "de38f2ff-5cb0-4e8d-ba0a-bb61f07080ce",
+    "from_id": "69f6ff0d-99c1-4ac1-9ab5-43cc233c14fb",
     "from_name": "braincrew-lab/langgraph-mcp-agents",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "eb904413-0776-4310-9b30-7872575c1d06",
-    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "id": "13bfcca6-7701-41f7-b980-06b2df2c12fe",
+    "from_id": "6817f0f6-e212-47f7-8c86-da737fe82fd2",
     "from_name": "cohnen/mcp-google-ads",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "cc56e82c-e632-4fd9-8d1e-c9c2afa9a7a2",
-    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "id": "a5909c99-db74-46b1-82ee-757b1785aca7",
+    "from_id": "6817f0f6-e212-47f7-8c86-da737fe82fd2",
     "from_name": "cohnen/mcp-google-ads",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "bbb4139c-c593-44de-a83d-5d4ba6b1932f",
-    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "id": "9b1e3597-d854-4d3e-b770-77b6f1f778b8",
+    "from_id": "6817f0f6-e212-47f7-8c86-da737fe82fd2",
     "from_name": "cohnen/mcp-google-ads",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "88619c63-1345-4769-9d28-8e8c4968d929",
-    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "id": "f1a2c192-72fb-4223-960a-c1beff056f1b",
+    "from_id": "ff170920-49f1-4fd6-8b60-1e8d174b02fa",
     "from_name": "Bessouat40/RAGLight",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "ba58536a-28c8-48e4-99ed-3bf41b7e5ee1",
-    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "id": "447c1ff8-5a6c-43ad-9607-51a4b1c07f80",
+    "from_id": "ff170920-49f1-4fd6-8b60-1e8d174b02fa",
     "from_name": "Bessouat40/RAGLight",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "1ce0c3d3-9d54-4f0c-a2ed-9ca6c9acf980",
-    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "id": "a20cefc3-566d-49b2-819d-b489c5581fac",
+    "from_id": "ff170920-49f1-4fd6-8b60-1e8d174b02fa",
     "from_name": "Bessouat40/RAGLight",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "018ca6fe-1c24-4eea-96cc-d62dd8f0cff2",
-    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "id": "8676edfb-23e8-4346-b578-e088c83fca79",
+    "from_id": "bc94c949-ed29-4646-ba0e-d98f74d9ae67",
     "from_name": "cyproxio/mcp-for-security",
     "relation": "integrates_with",
-    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "to_name": "Home"
+    "to_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "to_name": "MockItReal"
   },
   {
-    "id": "aae9acef-8e9e-47c7-a1b5-2bb38d2902b9",
-    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "id": "cbaa3233-a954-4251-9b87-a14539d4455c",
+    "from_id": "bc94c949-ed29-4646-ba0e-d98f74d9ae67",
     "from_name": "cyproxio/mcp-for-security",
     "relation": "integrates_with",
-    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "to_name": "Search"
+    "to_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "to_name": "Semaloop"
   },
   {
-    "id": "d2f1724c-0b1f-4e5a-92a6-f4307cb921a0",
-    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "id": "59d2e15e-a9fa-4ea5-a3d8-1deed9ba78aa",
+    "from_id": "bc94c949-ed29-4646-ba0e-d98f74d9ae67",
     "from_name": "cyproxio/mcp-for-security",
     "relation": "integrates_with",
-    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "to_name": "Deals"
+    "to_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "to_name": "Glean"
   },
   {
-    "id": "f5c7080e-39f0-430c-8b30-551fada3ec8e",
-    "from_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "from_name": "Home",
+    "id": "bbfce81d-dd0e-43a4-8ad4-70e12ac650fd",
+    "from_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "from_name": "MockItReal",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "adf3fb44-4b28-4c6d-bb40-31e1be89f3c3",
-    "from_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
-    "from_name": "Home",
+    "id": "b6396959-b83e-432c-844e-f37e6d4982a6",
+    "from_id": "708bc193-e098-42ca-980e-890fb09cafcd",
+    "from_name": "MockItReal",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Product Mockups"
   },
   {
-    "id": "7015b795-54c3-4c2e-9350-7ee6692918ea",
-    "from_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "from_name": "Search",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "e87f364c-ba83-4bdb-bbf8-1256171a3fae",
-    "from_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
-    "from_name": "Search",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "b6553d51-ee0c-492d-900b-0cd259535e2c",
-    "from_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "from_name": "Deals",
+    "id": "1044a011-2cc3-4f31-8960-daa32e83a6dc",
+    "from_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "from_name": "Semaloop",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "25451352-47c4-438f-8257-b7e832f71171",
-    "from_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
-    "from_name": "Deals",
+    "id": "c5502b8b-89dd-4817-8ff3-c4f1e142a790",
+    "from_id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
+    "from_name": "Semaloop",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "App Testing"
   },
   {
-    "id": "fa3483ae-28ed-4415-92c6-632b174dcad7",
-    "from_id": "2ee6c81e-2087-4cd8-baeb-b9197e0c5abf",
-    "from_name": "Leaderboard",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "3baca85d-d2bf-418c-9225-a0b21869a60f",
-    "from_id": "2ee6c81e-2087-4cd8-baeb-b9197e0c5abf",
-    "from_name": "Leaderboard",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "feb2917d-89d6-41c0-a6a1-66350d2af89d",
-    "from_id": "0c440fa9-503e-47e1-a9f4-a407f9a0afe8",
-    "from_name": "Tasks",
+    "id": "5dc05801-74b0-41f2-90c6-eb59c340acd3",
+    "from_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "from_name": "Glean",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "7105e76d-62b1-4a96-bc29-5462842f6acc",
-    "from_id": "0c440fa9-503e-47e1-a9f4-a407f9a0afe8",
-    "from_name": "Tasks",
+    "id": "d90b64b8-d3b3-4072-9017-e4557a89da3a",
+    "from_id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
+    "from_name": "Glean",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Personal Assistant"
   },
   {
-    "id": "8685e9c3-2df0-4431-928c-0ed3a217a7cb",
-    "from_id": "97337e5c-6b2c-448c-bda0-70eaff46d8c9",
-    "from_name": "Mini tools",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "2964f6ff-6c54-4c17-b334-7c7a57c6ff96",
-    "from_id": "97337e5c-6b2c-448c-bda0-70eaff46d8c9",
-    "from_name": "Mini tools",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "3644e533-ddb0-4e19-8666-689adc75e790",
-    "from_id": "06bd21d2-36d5-4942-aada-365a7d9a2ee9",
-    "from_name": "Characters",
+    "id": "40c0ed92-0cd1-463c-8f18-d6b0a65a8d27",
+    "from_id": "95b943ad-3635-4b15-800c-5c787f526e62",
+    "from_name": "Kilo Code Reviewer",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "caf72283-4ed6-4da5-b27c-5a359117b0a8",
-    "from_id": "06bd21d2-36d5-4942-aada-365a7d9a2ee9",
-    "from_name": "Characters",
+    "id": "1d0ced7b-948d-4b64-9408-757cd517bcdc",
+    "from_id": "95b943ad-3635-4b15-800c-5c787f526e62",
+    "from_name": "Kilo Code Reviewer",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Code Reviews"
   },
   {
-    "id": "764857bf-a2f7-46ae-8dab-f723697e3cdf",
-    "from_id": "0be8acbb-82c8-4b4a-ad13-f645a86ecacf",
-    "from_name": "Map",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "50dfd501-6489-4939-8cb9-8bc820e2a0f5",
-    "from_id": "0be8acbb-82c8-4b4a-ad13-f645a86ecacf",
-    "from_name": "Map",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "7f3fb4b9-4a01-4380-aeeb-3e41bdd4359a",
-    "from_id": "74adb9a4-877a-4346-bcd7-bf9c65de6b82",
-    "from_name": "Prompts",
+    "id": "8d0a197f-ce73-41cd-b4a6-782bc5c04dcb",
+    "from_id": "1e805271-82b6-4a13-a480-53124609e199",
+    "from_name": "TextSight.ai",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "20c3f64f-2c86-485d-8fea-98a24a970d05",
-    "from_id": "74adb9a4-877a-4346-bcd7-bf9c65de6b82",
-    "from_name": "Prompts",
+    "id": "91a36b00-e0a1-47fc-844a-6d24d95ba911",
+    "from_id": "1e805271-82b6-4a13-a480-53124609e199",
+    "from_name": "TextSight.ai",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Ai Detection"
   },
   {
-    "id": "aae65476-490e-43b6-a736-cc058b74e759",
-    "from_id": "6af78009-a6e9-481d-9a98-c074670babed",
-    "from_name": "Launch / Advertise",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "06ae2a5d-f8d1-476d-9d15-e8627b025b26",
-    "from_id": "6af78009-a6e9-481d-9a98-c074670babed",
-    "from_name": "Launch / Advertise",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "4065fac4-06f4-4247-948f-7e3f9db5f26d",
-    "from_id": "f12e439e-e7d3-4d01-891c-adb2c43c325b",
-    "from_name": "Newsletter",
+    "id": "0f019d97-25c8-449c-85c6-077a33f0ddbc",
+    "from_id": "33f5740a-2ad6-448a-acf1-9e3ed3d80b38",
+    "from_name": "Ardelia",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "aa0f2f06-c8bd-436b-bd03-0919011f2323",
-    "from_id": "f12e439e-e7d3-4d01-891c-adb2c43c325b",
-    "from_name": "Newsletter",
+    "id": "290dc82a-bbe5-442f-8e3f-8cb475a03584",
+    "from_id": "33f5740a-2ad6-448a-acf1-9e3ed3d80b38",
+    "from_name": "Ardelia",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Business Operations"
   },
   {
-    "id": "69263be4-f8eb-4018-994e-1983634ca0f5",
-    "from_id": "30aeffcc-a0e6-4c67-bbc0-b3edfd892b29",
-    "from_name": "Merchandise",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "b443541a-1705-4689-96ec-0aa1099069ca",
-    "from_id": "30aeffcc-a0e6-4c67-bbc0-b3edfd892b29",
-    "from_name": "Merchandise",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "6835b9dc-d841-4d5d-9dd9-ed376f800036",
-    "from_id": "930006cc-bd4e-4814-ba66-d11bff64a522",
-    "from_name": "Contact us",
+    "id": "2fdac5aa-67c2-44f2-99b5-5d886e7546ee",
+    "from_id": "17485912-1bb0-46df-8041-8dfcd7920ba8",
+    "from_name": "Supernormal",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "f07775cf-bd64-4ba7-ac7b-9c6000b34a37",
-    "from_id": "930006cc-bd4e-4814-ba66-d11bff64a522",
-    "from_name": "Contact us",
+    "id": "0c056d21-e542-4365-9093-3f5d319df154",
+    "from_id": "17485912-1bb0-46df-8041-8dfcd7920ba8",
+    "from_name": "Supernormal",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Productivity"
   },
   {
-    "id": "ba03b754-91f8-449a-81c7-7075c33adc30",
-    "from_id": "3d60c6ab-281a-42fb-b638-11c5944e0779",
-    "from_name": "Generate images",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "6839b36f-e520-4e5a-a9ab-ca58cfb1275b",
-    "from_id": "3d60c6ab-281a-42fb-b638-11c5944e0779",
-    "from_name": "Generate images",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "f9e4e8c8-2e0e-4683-88e9-4bec8f834080",
-    "from_id": "78e2a3c9-db29-4773-970a-a00b383b0e19",
-    "from_name": "Create AI Tools",
+    "id": "aa9ecb65-6d68-4ff0-b1e7-8efebcf985f4",
+    "from_id": "3d43a139-9e91-4765-a033-612fee451179",
+    "from_name": "Photo2Ads",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "29725460-8d3e-4a49-88c6-d1de324137d8",
-    "from_id": "78e2a3c9-db29-4773-970a-a00b383b0e19",
-    "from_name": "Create AI Tools",
+    "id": "5fff9b01-4872-4d04-9ffa-0c3904646aee",
+    "from_id": "3d43a139-9e91-4765-a033-612fee451179",
+    "from_name": "Photo2Ads",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Video Ads"
   },
   {
-    "id": "54f9be58-27da-4e3f-a82d-b5933c316726",
-    "from_id": "9d8bb809-056c-4d47-b8a2-1d680b3a64b7",
-    "from_name": "YouTube",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "f651502e-c631-4cc7-a16c-4b47c5077c8c",
-    "from_id": "9d8bb809-056c-4d47-b8a2-1d680b3a64b7",
-    "from_name": "YouTube",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "2a063d9b-58fb-4fb8-86b4-081b9c28daa0",
-    "from_id": "3930dd08-5e68-4b8c-ba69-e346c178f04d",
-    "from_name": "School",
+    "id": "ef0e3243-f816-45e3-8600-7c1cd4cd11fa",
+    "from_id": "0f18fcc7-bdc2-4c11-a393-cb214a8fec13",
+    "from_name": "GeoCopy",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "e1c285d5-0201-4a95-9c4b-f0150af3fb0d",
-    "from_id": "3930dd08-5e68-4b8c-ba69-e346c178f04d",
-    "from_name": "School",
+    "id": "c0c954e2-5b75-4525-9324-d3b4b76eb89c",
+    "from_id": "0f18fcc7-bdc2-4c11-a393-cb214a8fec13",
+    "from_name": "GeoCopy",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Seo"
   },
   {
-    "id": "1aae1696-a529-4efa-b568-90b2543ba64e",
-    "from_id": "cb69cfdc-0838-4025-b82a-0881fc679d2e",
-    "from_name": "Companionship",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "22e771da-c624-42c3-af5d-ac300e40e104",
-    "from_id": "cb69cfdc-0838-4025-b82a-0881fc679d2e",
-    "from_name": "Companionship",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "b83164e8-e71a-467b-8b8f-0bd423504f6b",
-    "from_id": "739780c5-81da-4c68-b996-bf9dbee5f06c",
-    "from_name": "SEO",
+    "id": "5cd9f922-bce1-4837-ad5c-7a71b15783da",
+    "from_id": "98c3cf95-a6fa-43de-9a00-ef3bcc2280df",
+    "from_name": "Kick",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "0b5e2828-b470-4b63-a4e2-1526bcfb6342",
-    "from_id": "739780c5-81da-4c68-b996-bf9dbee5f06c",
-    "from_name": "SEO",
+    "id": "9d200b39-2873-46ca-9b04-080f8624ea87",
+    "from_id": "98c3cf95-a6fa-43de-9a00-ef3bcc2280df",
+    "from_name": "Kick",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Accounting"
   },
   {
-    "id": "fc55ae2f-17de-41a0-bbda-f2d52f0aa21b",
-    "from_id": "aec78a26-82b0-4979-b857-9a0765b1eb80",
-    "from_name": "Summaries",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "d7d012c4-08fd-46dc-96d3-a803c89bd065",
-    "from_id": "aec78a26-82b0-4979-b857-9a0765b1eb80",
-    "from_name": "Summaries",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "aefd5574-1291-4911-a48d-b61530c7d237",
-    "from_id": "4836d532-f605-47ed-b323-e744a08de1ab",
-    "from_name": "ChatGPT",
+    "id": "463f016e-2a0d-4d0c-b366-15dd4118a7ab",
+    "from_id": "dff01a79-e5b0-4c09-9218-a3efb7018476",
+    "from_name": "Traccia",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "09b81794-e13e-48ff-98bb-cff3ce860dd6",
-    "from_id": "4836d532-f605-47ed-b323-e744a08de1ab",
-    "from_name": "ChatGPT",
+    "id": "333d086b-efc5-4099-b3aa-c6a41c1ef4ee",
+    "from_id": "dff01a79-e5b0-4c09-9218-a3efb7018476",
+    "from_name": "Traccia",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Ai Observability"
   },
   {
-    "id": "b87e4e18-35de-4cea-ad14-87b0d2f8ed48",
-    "from_id": "8a434b41-d956-4553-aba9-e21c76b2d93f",
-    "from_name": "#ai chatbots",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "3ed59e16-1ad3-49b9-860a-19e2cf72020c",
-    "from_id": "8a434b41-d956-4553-aba9-e21c76b2d93f",
-    "from_name": "#ai chatbots",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "dbd9b826-89eb-4a02-b138-f232bee2ecf3",
-    "from_id": "1241aefc-2681-41a8-a740-9e7dcbe69654",
-    "from_name": "#research",
+    "id": "c0afd382-6513-4f43-aa67-7f3e07e1427f",
+    "from_id": "3d894a26-d4b0-414d-8411-9e5eab475124",
+    "from_name": "Videnly",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "a2e2371d-7463-4b3b-a5ed-d8611c19b4d6",
-    "from_id": "1241aefc-2681-41a8-a740-9e7dcbe69654",
-    "from_name": "#research",
+    "id": "416d2f68-a004-456f-b7b1-d3660cb645cc",
+    "from_id": "3d894a26-d4b0-414d-8411-9e5eab475124",
+    "from_name": "Videnly",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Videos"
   },
   {
-    "id": "afea7e21-12fa-4acd-8215-ce629f1263d5",
-    "from_id": "629a5aa9-d06a-44dc-b729-77741a6820db",
-    "from_name": "#ai agents",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "e705420b-1fad-4d0c-b6f2-05dbbd79e593",
-    "from_id": "629a5aa9-d06a-44dc-b729-77741a6820db",
-    "from_name": "#ai agents",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "25c897fc-7b05-4bea-bf6b-4feef30157bd",
-    "from_id": "cdcbd408-0b8b-4d12-8c41-5f9e9c6eccfd",
-    "from_name": "Claude",
+    "id": "4c528409-c930-43d2-acaf-35d2aff1fe29",
+    "from_id": "34f04138-e372-4c09-9cc6-dab1ecc4a2ca",
+    "from_name": "Social Intents",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "35e57547-431d-4cb0-afc6-22678481c1e6",
-    "from_id": "cdcbd408-0b8b-4d12-8c41-5f9e9c6eccfd",
-    "from_name": "Claude",
+    "id": "ab4eff2e-d140-4c33-9281-70bc038f8747",
+    "from_id": "34f04138-e372-4c09-9cc6-dab1ecc4a2ca",
+    "from_name": "Social Intents",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Customer Support"
   },
   {
-    "id": "5f376e0a-1987-44ef-8a63-5329fc8f0db7",
-    "from_id": "2d8c9cfc-2e0a-403b-9577-707cc765640e",
-    "from_name": "#code assistant",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "a578e65a-b998-4157-aae9-3f925241d6c8",
-    "from_id": "2d8c9cfc-2e0a-403b-9577-707cc765640e",
-    "from_name": "#code assistant",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "d00f3f81-b2a4-4eed-9a42-dab6bfe5d53f",
-    "from_id": "5857da35-bb60-485d-8324-6cce1b4c014b",
-    "from_name": "HubSpot AEO Sensor",
+    "id": "fc9b052f-90f0-49ae-93e8-acdb702b39c9",
+    "from_id": "c554a17b-9fe4-444d-9299-3e6b8af32175",
+    "from_name": "ChatPlayground AI",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "ade8d907-7fa2-46ec-bba7-685d2170f5ff",
-    "from_id": "5857da35-bb60-485d-8324-6cce1b4c014b",
-    "from_name": "HubSpot AEO Sensor",
+    "id": "085ce5fc-360e-429e-abbc-0ffe4abd0de6",
+    "from_id": "c554a17b-9fe4-444d-9299-3e6b8af32175",
+    "from_name": "ChatPlayground AI",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Llm Comparison"
   },
   {
-    "id": "142b74fb-1df3-4688-9302-1dba5278fdbe",
-    "from_id": "6fceb87d-b348-4d0a-a978-c3b3fd49b289",
-    "from_name": "#marketing",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "bc082fdf-8ce5-450e-9b05-8a4e4e82a1d7",
-    "from_id": "6fceb87d-b348-4d0a-a978-c3b3fd49b289",
-    "from_name": "#marketing",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "71811712-5556-427b-b4b3-0136b1e406c6",
-    "from_id": "3060e925-b189-4ae2-8324-f0e191752b6f",
-    "from_name": "Perplexity",
+    "id": "c2f3a74c-cd65-4501-b7a0-091017ccc2d4",
+    "from_id": "1c2dcfb8-ffe4-4d13-bc17-88b67fc38ae7",
+    "from_name": "Reglyph",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "82737f88-c89f-44c4-8bc6-f619541bd4a5",
-    "from_id": "3060e925-b189-4ae2-8324-f0e191752b6f",
-    "from_name": "Perplexity",
+    "id": "d96f9ad2-e489-498e-9f34-9a749cda65ce",
+    "from_id": "1c2dcfb8-ffe4-4d13-bc17-88b67fc38ae7",
+    "from_name": "Reglyph",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Document Translation"
   },
   {
-    "id": "ffca4798-cc5e-4400-9e32-bb37b8da78a9",
-    "from_id": "9f1d6791-c63b-4669-b730-3259e86c7160",
-    "from_name": "#summarizer",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "08dd4af1-8783-4722-a065-52dd3d1b8c52",
-    "from_id": "9f1d6791-c63b-4669-b730-3259e86c7160",
-    "from_name": "#summarizer",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "dabe4f9f-8221-4268-adad-a5120e152a85",
-    "from_id": "aa253e13-ec1c-4fa2-94cb-b494613921ed",
-    "from_name": "Google Gemini",
+    "id": "bba94425-206c-4604-85e5-476ae7f5c045",
+    "from_id": "b55cf033-a2b0-4238-8aff-7382b95359f6",
+    "from_name": "Katto",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "f4d38fc8-6b10-42f4-8d8f-248d4063f993",
-    "from_id": "aa253e13-ec1c-4fa2-94cb-b494613921ed",
-    "from_name": "Google Gemini",
+    "id": "902a6860-6536-49e3-863c-200bbdf6719b",
+    "from_id": "b55cf033-a2b0-4238-8aff-7382b95359f6",
+    "from_name": "Katto",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Short Videos"
   },
   {
-    "id": "bef06dbe-e3fc-4dce-bb78-e67020533e0d",
-    "from_id": "0da4a255-e8f5-428d-8bc2-506f8fe2de52",
-    "from_name": "#writing generators",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "68225a3b-ac8c-4cdb-bc1e-28768549c929",
-    "from_id": "0da4a255-e8f5-428d-8bc2-506f8fe2de52",
-    "from_name": "#writing generators",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "e3b98dc8-c41d-4739-aea4-34c7e2dbe8f3",
-    "from_id": "0532df6f-396e-479c-a16d-ada62f437361",
-    "from_name": "Midjourney",
+    "id": "58c0a61a-3726-490d-9bca-120b86bec366",
+    "from_id": "50562893-58b8-4939-b7b2-443032d305af",
+    "from_name": "Format Magic",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "7f1751cb-53b3-405f-966c-f4ca6765581f",
-    "from_id": "0532df6f-396e-479c-a16d-ada62f437361",
-    "from_name": "Midjourney",
+    "id": "e992b30b-5813-474e-919a-992bfb3dc0e2",
+    "from_id": "50562893-58b8-4939-b7b2-443032d305af",
+    "from_name": "Format Magic",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Document Formatting"
   },
   {
-    "id": "484c7ead-8c61-4ff0-ba78-0d2c6fa26817",
-    "from_id": "e9a25ee5-0973-4d5a-8fcb-a093a08fecc3",
-    "from_name": "#text to image",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "d5b2f2cf-3580-4442-ad83-de3e0dbd3f97",
-    "from_id": "e9a25ee5-0973-4d5a-8fcb-a093a08fecc3",
-    "from_name": "#text to image",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "79d25484-fc32-451b-b0af-5012ce36fce0",
-    "from_id": "22e082dd-c2ce-4af7-832e-ccfd19a32da9",
-    "from_name": "#image editing",
+    "id": "8b8c5896-2f77-410e-bdd1-1bffce96060c",
+    "from_id": "96d5dba4-40bc-4b84-b173-181cb7a7f3b3",
+    "from_name": "Be The Book",
     "relation": "solves",
     "to_id": null,
     "to_name": "Tools"
   },
   {
-    "id": "7d47b7dd-56d9-4506-93b0-b09b986bc5c2",
-    "from_id": "22e082dd-c2ce-4af7-832e-ccfd19a32da9",
-    "from_name": "#image editing",
+    "id": "15b848b3-35a0-4c20-9f4e-5c61bde8e58f",
+    "from_id": "96d5dba4-40bc-4b84-b173-181cb7a7f3b3",
+    "from_name": "Be The Book",
     "relation": "solves",
     "to_id": null,
-    "to_name": "Collections"
+    "to_name": "Personalized Books"
   },
   {
-    "id": "963c65f0-d377-4ba1-92d9-aa56851c7cac",
-    "from_id": "cbfd55fb-f072-47ea-822b-e8688e4ddf4a",
-    "from_name": "#video generators",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "5d41aaca-7507-4a1b-96dd-c8d6ac2c168c",
-    "from_id": "cbfd55fb-f072-47ea-822b-e8688e4ddf4a",
-    "from_name": "#video generators",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "ae49b4fc-5604-4b4f-a821-6bbff017b18b",
-    "from_id": "311f4e3c-61e5-474b-90d9-ca8d281336e1",
-    "from_name": "Grok",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "c50f4944-544c-44e0-9b4c-51e41d65e05b",
-    "from_id": "311f4e3c-61e5-474b-90d9-ca8d281336e1",
-    "from_name": "Grok",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "d85510b5-25d8-4c16-8269-f18c19a074e5",
-    "from_id": "de6a1b82-7bd6-497f-bdcf-d464982183e1",
-    "from_name": "Go to Channel",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Tools"
-  },
-  {
-    "id": "59b73e05-7bdf-4562-9f79-61598b085d8a",
-    "from_id": "de6a1b82-7bd6-497f-bdcf-d464982183e1",
-    "from_name": "Go to Channel",
-    "relation": "solves",
-    "to_id": null,
-    "to_name": "Collections"
-  },
-  {
-    "id": "8d78a994-2e0d-44e5-893a-a2e7104d5057",
+    "id": "f81f762e-413d-4f15-b9b6-6e5f988439e5",
     "from_id": "518f9624-7e8d-4c86-8f04-0310e674a0ca",
     "from_name": "Replit – Build apps and sites with AI - Replit",
     "relation": "solves",
@@ -1504,7 +1184,7 @@
     "to_name": "Tools"
   },
   {
-    "id": "e7389a26-47c4-4817-852b-c7781b1bd446",
+    "id": "9ec8772f-4ed3-432b-a558-a09692ea2493",
     "from_id": "9cb42531-c4ee-4102-a060-e8c4d5d21123",
     "from_name": "The AI workspace that works for you. | Notion",
     "relation": "solves",
@@ -1512,7 +1192,7 @@
     "to_name": "Tools"
   },
   {
-    "id": "098e9a71-38de-4e18-8413-e005fdf47310",
+    "id": "1c5d1445-b33b-453f-b2fe-3343e2d4e56e",
     "from_id": "9cb42531-c4ee-4102-a060-e8c4d5d21123",
     "from_name": "The AI workspace that works for you. | Notion",
     "relation": "solves",
@@ -1520,7 +1200,7 @@
     "to_name": "Personal"
   },
   {
-    "id": "2d3284ed-f824-4376-9d63-e99d303789be",
+    "id": "daaf6bca-0b75-4927-8c89-e41279e4c83a",
     "from_id": "d752d146-e634-4ae3-80ad-8ee58c9c6c3b",
     "from_name": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
     "relation": "solves",
@@ -1528,7 +1208,7 @@
     "to_name": "Tools"
   },
   {
-    "id": "2a36b1f7-2f0b-41a9-9cb2-914f2704a5fc",
+    "id": "2093c485-f2aa-4ef3-b7db-25163657d998",
     "from_id": "d752d146-e634-4ae3-80ad-8ee58c9c6c3b",
     "from_name": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
     "relation": "solves",
@@ -1536,7 +1216,7 @@
     "to_name": "Creative"
   },
   {
-    "id": "73646f27-6224-400c-8fc4-87e2ba2ba89a",
+    "id": "8ca6bc98-e4a4-446b-bd26-47f63bea6e24",
     "from_id": "e4c88bc2-4cbc-4e0c-a0f5-7c9023205514",
     "from_name": "Runway | Building Real-World Intelligence",
     "relation": "solves",
@@ -1544,7 +1224,7 @@
     "to_name": "Tools"
   },
   {
-    "id": "ce53b9f5-143d-499b-9c93-53f59e975d94",
+    "id": "d843874b-a944-4ea6-99f9-9d11206c56c8",
     "from_id": "e4c88bc2-4cbc-4e0c-a0f5-7c9023205514",
     "from_name": "Runway | Building Real-World Intelligence",
     "relation": "solves",

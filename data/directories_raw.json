@@ -1,642 +1,290 @@
 [
   {
-    "id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "id": "708bc193-e098-42ca-980e-890fb09cafcd",
     "entity_type": "tools",
-    "name": "Home",
-    "description": "",
-    "url": "https://theresanaiforthat.com",
+    "name": "MockItReal",
+    "description": "One design in, endless mockups out.",
+    "url": "https://mockitreal.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Product mockups"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "id": "79f0b020-3a35-4a12-b3e5-9769a81f7dbb",
     "entity_type": "tools",
-    "name": "Search",
-    "description": "",
-    "url": "https://theresanaiforthat.com/search/",
+    "name": "Semaloop",
+    "description": "Catch mobile bugs before your users do.",
+    "url": "https://semaloop.com",
     "categories": [
       "Tools",
-      "Collections"
+      "App testing"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "id": "a1ddeb3d-12ea-4ac0-96f5-df5b7737e9a5",
     "entity_type": "tools",
-    "name": "Deals",
-    "description": "",
-    "url": "https://theresanaiforthat.com/deals/",
+    "name": "Glean",
+    "description": "Work AI connected to your company's tools, data, and context.",
+    "url": "https://www.glean.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Personal assistant"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "2ee6c81e-2087-4cd8-baeb-b9197e0c5abf",
+    "id": "95b943ad-3635-4b15-800c-5c787f526e62",
     "entity_type": "tools",
-    "name": "Leaderboard",
-    "description": "",
-    "url": "https://theresanaiforthat.com/leaderboard/",
+    "name": "Kilo Code Reviewer",
+    "description": "AI-powered code reviews that catch bugs before merge.",
+    "url": "https://kilo.ai",
     "categories": [
       "Tools",
-      "Collections"
+      "Code reviews"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "0c440fa9-503e-47e1-a9f4-a407f9a0afe8",
+    "id": "1e805271-82b6-4a13-a480-53124609e199",
     "entity_type": "tools",
-    "name": "Tasks",
-    "description": "",
-    "url": "https://theresanaiforthat.com/tasks/",
+    "name": "TextSight.ai",
+    "description": "Detect AI content, then make it human.",
+    "url": "https://textsight.ai",
     "categories": [
       "Tools",
-      "Collections"
+      "AI detection"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "97337e5c-6b2c-448c-bda0-70eaff46d8c9",
+    "id": "33f5740a-2ad6-448a-acf1-9e3ed3d80b38",
     "entity_type": "tools",
-    "name": "Mini tools",
-    "description": "",
-    "url": "https://theresanaiforthat.com/mini-tools/",
+    "name": "Ardelia",
+    "description": "Your AI company that runs while you sleep.",
+    "url": "https://www.getardelia.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Business operations"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "06bd21d2-36d5-4942-aada-365a7d9a2ee9",
+    "id": "17485912-1bb0-46df-8041-8dfcd7920ba8",
     "entity_type": "tools",
-    "name": "Characters",
-    "description": "",
-    "url": "https://theresanaiforthat.com/characters/",
+    "name": "Supernormal",
+    "description": "The AI assistant app that turns meetings into completed work.",
+    "url": "https://radiantapp.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Productivity"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "0be8acbb-82c8-4b4a-ad13-f645a86ecacf",
+    "id": "3d43a139-9e91-4765-a033-612fee451179",
     "entity_type": "tools",
-    "name": "Map",
-    "description": "",
-    "url": "https://theresanaiforthat.com/map/",
+    "name": "Photo2Ads",
+    "description": "Turn one product photo into ads.",
+    "url": "https://photo2ads.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Video ads"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "74adb9a4-877a-4346-bcd7-bf9c65de6b82",
+    "id": "0f18fcc7-bdc2-4c11-a393-cb214a8fec13",
     "entity_type": "tools",
-    "name": "Prompts",
-    "description": "",
-    "url": "https://theresanaiforthat.com/ebook/",
+    "name": "GeoCopy",
+    "description": "Get your brand cited in AI answers.",
+    "url": "https://geocopy.com",
     "categories": [
       "Tools",
-      "Collections"
+      "SEO"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "6af78009-a6e9-481d-9a98-c074670babed",
+    "id": "98c3cf95-a6fa-43de-9a00-ef3bcc2280df",
     "entity_type": "tools",
-    "name": "Launch / Advertise",
-    "description": "",
-    "url": "https://theresanaiforthat.com/get-featured/",
+    "name": "Kick",
+    "description": "Accounting software that does the work for you.",
+    "url": "https://kick.co",
     "categories": [
       "Tools",
-      "Collections"
+      "Accounting"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "f12e439e-e7d3-4d01-891c-adb2c43c325b",
+    "id": "dff01a79-e5b0-4c09-9218-a3efb7018476",
     "entity_type": "tools",
-    "name": "Newsletter",
-    "description": "",
-    "url": "https://newsletter.theresanaiforthat.com/subscribe",
+    "name": "Traccia",
+    "description": "AI Agent Control Plane.",
+    "url": "https://traccia.com",
     "categories": [
       "Tools",
-      "Collections"
+      "AI observability"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "30aeffcc-a0e6-4c67-bbc0-b3edfd892b29",
+    "id": "3d894a26-d4b0-414d-8411-9e5eab475124",
     "entity_type": "tools",
-    "name": "Merchandise",
-    "description": "",
-    "url": "https://shop.theresanaiforthat.com/",
+    "name": "Videnly",
+    "description": "Turn any idea into a complete YouTube video.",
+    "url": "https://videnly.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Videos"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "930006cc-bd4e-4814-ba66-d11bff64a522",
+    "id": "34f04138-e372-4c09-9cc6-dab1ecc4a2ca",
     "entity_type": "tools",
-    "name": "Contact us",
-    "description": "",
-    "url": "https://theresanaiforthat.com/contact-us/",
+    "name": "Social Intents",
+    "description": "Real-time support and sales via messaging platforms.",
+    "url": "https://www.socialintents.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Customer support"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "3d60c6ab-281a-42fb-b638-11c5944e0779",
+    "id": "c554a17b-9fe4-444d-9299-3e6b8af32175",
     "entity_type": "tools",
-    "name": "Generate images",
-    "description": "",
-    "url": "https://theresanaiforthat.com/@taaft/image-generator/?ref=header",
+    "name": "ChatPlayground AI",
+    "description": "The #1 platform for comparing AI models.",
+    "url": "https://www.chatplayground.ai",
     "categories": [
       "Tools",
-      "Collections"
+      "LLM comparison"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "78e2a3c9-db29-4773-970a-a00b383b0e19",
+    "id": "1c2dcfb8-ffe4-4d13-bc17-88b67fc38ae7",
     "entity_type": "tools",
-    "name": "Create AI Tools",
-    "description": "",
-    "url": "https://theresanaiforthat.com/create/?ref=header_link",
+    "name": "Reglyph",
+    "description": "Translate the scan, keep the page.",
+    "url": "https://reglyph.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Document translation"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "9d8bb809-056c-4d47-b8a2-1d680b3a64b7",
+    "id": "b55cf033-a2b0-4238-8aff-7382b95359f6",
     "entity_type": "tools",
-    "name": "YouTube",
-    "description": "",
-    "url": "https://www.youtube.com/@theresanaiforit",
+    "name": "Katto",
+    "description": "One video in, every platform out.",
+    "url": "https://katto.tech",
     "categories": [
       "Tools",
-      "Collections"
+      "Short videos"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "3930dd08-5e68-4b8c-ba69-e346c178f04d",
+    "id": "50562893-58b8-4939-b7b2-443032d305af",
     "entity_type": "tools",
-    "name": "School",
-    "description": "",
-    "url": "https://theresanaiforthat.com/s/school/",
+    "name": "Format Magic",
+    "description": "Format plain text into professional documents instantly.",
+    "url": "https://formatmagic.ai",
     "categories": [
       "Tools",
-      "Collections"
+      "Document formatting"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   },
   {
-    "id": "cb69cfdc-0838-4025-b82a-0881fc679d2e",
+    "id": "96d5dba4-40bc-4b84-b173-181cb7a7f3b3",
     "entity_type": "tools",
-    "name": "Companionship",
-    "description": "",
-    "url": "https://theresanaiforthat.com/s/companionship/",
+    "name": "Be The Book",
+    "description": "Turn someone you love into the star of their own book.",
+    "url": "https://bethebook.com",
     "categories": [
       "Tools",
-      "Collections"
+      "Personalized books"
     ],
     "source": {
       "name": "AI Directory",
       "url": "https://theresanaiforthat.com"
     },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
-  },
-  {
-    "id": "739780c5-81da-4c68-b996-bf9dbee5f06c",
-    "entity_type": "tools",
-    "name": "SEO",
-    "description": "",
-    "url": "https://theresanaiforthat.com/s/seo/",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://theresanaiforthat.com"
-    },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
-  },
-  {
-    "id": "aec78a26-82b0-4979-b857-9a0765b1eb80",
-    "entity_type": "tools",
-    "name": "Summaries",
-    "description": "",
-    "url": "https://theresanaiforthat.com/s/summaries/",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://theresanaiforthat.com"
-    },
-    "ingested_at": "2026-08-18T08:28:35.228844+00:00"
-  },
-  {
-    "id": "4836d532-f605-47ed-b323-e744a08de1ab",
-    "entity_type": "tools",
-    "name": "ChatGPT",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/chatgpt",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "8a434b41-d956-4553-aba9-e21c76b2d93f",
-    "entity_type": "tools",
-    "name": "#ai chatbots",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/chatbots",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "1241aefc-2681-41a8-a740-9e7dcbe69654",
-    "entity_type": "tools",
-    "name": "#research",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/research-assistant",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "629a5aa9-d06a-44dc-b729-77741a6820db",
-    "entity_type": "tools",
-    "name": "#ai agents",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/ai-agents",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "cdcbd408-0b8b-4d12-8c41-5f9e9c6eccfd",
-    "entity_type": "tools",
-    "name": "Claude",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/claude",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "2d8c9cfc-2e0a-403b-9577-707cc765640e",
-    "entity_type": "tools",
-    "name": "#code assistant",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/code-assistant",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "5857da35-bb60-485d-8324-6cce1b4c014b",
-    "entity_type": "tools",
-    "name": "HubSpot AEO Sensor",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/hubspot-aeo-sensor",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "6fceb87d-b348-4d0a-a978-c3b3fd49b289",
-    "entity_type": "tools",
-    "name": "#marketing",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/marketing",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "50f31494-4330-4d13-af4d-844fe8a350bd",
-    "entity_type": "tools",
-    "name": "#SEO",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/seo",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "3060e925-b189-4ae2-8324-f0e191752b6f",
-    "entity_type": "tools",
-    "name": "Perplexity",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/perplexity-ai",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "9f1d6791-c63b-4669-b730-3259e86c7160",
-    "entity_type": "tools",
-    "name": "#summarizer",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/summarizer",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "aa253e13-ec1c-4fa2-94cb-b494613921ed",
-    "entity_type": "tools",
-    "name": "Google Gemini",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/google-gemini",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "0da4a255-e8f5-428d-8bc2-506f8fe2de52",
-    "entity_type": "tools",
-    "name": "#writing generators",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/writing-generators",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "0532df6f-396e-479c-a16d-ada62f437361",
-    "entity_type": "tools",
-    "name": "Midjourney",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/midjourney",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "e9a25ee5-0973-4d5a-8fcb-a093a08fecc3",
-    "entity_type": "tools",
-    "name": "#text to image",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/text-to-image",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "22e082dd-c2ce-4af7-832e-ccfd19a32da9",
-    "entity_type": "tools",
-    "name": "#image editing",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/image-editing",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "cbfd55fb-f072-47ea-822b-e8688e4ddf4a",
-    "entity_type": "tools",
-    "name": "#video generators",
-    "description": "",
-    "url": "https://www.futurepedia.io/ai-tools/video-generators",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "311f4e3c-61e5-474b-90d9-ca8d281336e1",
-    "entity_type": "tools",
-    "name": "Grok",
-    "description": "",
-    "url": "https://www.futurepedia.io/tool/grok",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "de6a1b82-7bd6-497f-bdcf-d464982183e1",
-    "entity_type": "tools",
-    "name": "Go to Channel",
-    "description": "",
-    "url": "https://www.youtube.com/@futurepedia_io",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
-  },
-  {
-    "id": "b6fd8b8a-6bc5-411a-85a1-a4b92aaeda0f",
-    "entity_type": "tools",
-    "name": "Go to Channel",
-    "description": "",
-    "url": "https://www.youtube.com/@SkillLeapAI",
-    "categories": [
-      "Tools",
-      "Collections"
-    ],
-    "source": {
-      "name": "AI Directory",
-      "url": "https://www.futurepedia.io"
-    },
-    "ingested_at": "2026-08-18T08:28:37.241082+00:00"
+    "ingested_at": "2026-08-18T09:43:55.129326+00:00"
   }
 ]
