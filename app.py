@@ -67,7 +67,14 @@ with tab2:
         view = view[view["name"].str.contains(search, case=False, na=False)]
 
     cols_to_show = ["name", "entity_type", "description", "url"]
-    st.dataframe(view[cols_to_show], use_container_width=True, height=500)
+    st.dataframe(
+        view[cols_to_show],
+        use_container_width=True,
+        height=500,
+        column_config={
+            "url": st.column_config.LinkColumn("url", display_text="Visit")
+        }
+    )
     st.caption(f"{len(view)} of {len(entities)} entities shown")
 
 with tab3:
