@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "0137f40b-3ae0-4a13-9e4e-c1a94199d9fc",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-0.6B",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 28826416
+  },
+  {
+    "id": "375a95aa-8950-4ceb-99b7-cfc40d32207f",
+    "entity_type": "models",
+    "name": "facebook/opt-125m",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/facebook/opt-125m",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/facebook/opt-125m"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "facebook",
+    "downloads": 17048968
+  },
+  {
+    "id": "e273ee13-5e22-4e45-b67b-a68110887577",
+    "entity_type": "models",
+    "name": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "trl-internal-testing",
+    "downloads": 16722469
+  },
+  {
+    "id": "8ac70cf3-6d17-4e21-91c0-ed1cc097b7dd",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-8B",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 15839582
+  },
+  {
+    "id": "7d06a165-6a7f-4441-b8d2-8e57e191ad6b",
+    "entity_type": "models",
+    "name": "openai-community/gpt2",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/openai-community/gpt2",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai-community/gpt2"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "openai-community",
+    "downloads": 13884621
+  },
+  {
+    "id": "3e081912-df93-43b8-bbd7-ac0b1ecd2866",
+    "entity_type": "models",
+    "name": "Qwen/Qwen2.5-7B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 12291736
+  },
+  {
+    "id": "2a1a8baf-b4a9-4e6f-9968-ce48d014b746",
+    "entity_type": "models",
+    "name": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "nvidia",
+    "downloads": 12284707
+  },
+  {
+    "id": "17e0bd12-b891-464c-9fa5-65d503db934d",
+    "entity_type": "models",
+    "name": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "unsloth",
+    "downloads": 10616677
+  },
+  {
+    "id": "1885854c-cf43-4b3b-a538-0b6b7d00d20a",
+    "entity_type": "models",
+    "name": "Qwen/Qwen2.5-1.5B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 10414461
+  },
+  {
+    "id": "a54fc281-b3b3-4634-9548-f5836cb2abcc",
+    "entity_type": "models",
+    "name": "meta-llama/Llama-3.2-1B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "meta-llama",
+    "downloads": 8799286
+  },
+  {
+    "id": "9fb32a5c-2b6c-48f3-afc6-850f31cc6efb",
+    "entity_type": "models",
+    "name": "openai/gpt-oss-20b",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/openai/gpt-oss-20b",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/gpt-oss-20b"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "openai",
+    "downloads": 7801956
+  },
+  {
+    "id": "d2b8d5a3-aa99-4303-9e63-1d4ee7ad1873",
+    "entity_type": "models",
+    "name": "meta-llama/Llama-3.1-8B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "meta-llama",
+    "downloads": 7268716
+  },
+  {
+    "id": "8d763faa-d8bd-463f-96f4-101cbd0c8976",
+    "entity_type": "models",
+    "name": "deepseek-ai/DeepSeek-R1",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "deepseek-ai",
+    "downloads": 7212052
+  },
+  {
+    "id": "4301ce7a-f5c7-44c7-bf76-05c78459bb02",
+    "entity_type": "models",
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 6892650
+  },
+  {
+    "id": "0dcec8b0-514d-49fb-a58e-2e9b48199ba7",
+    "entity_type": "models",
+    "name": "Qwen/Qwen2.5-3B-Instruct",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 6811589
+  },
+  {
+    "id": "c206e5ba-7dca-4146-a9a4-9b178082ef65",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-1.7B",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-1.7B"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 6462342
+  },
+  {
+    "id": "7a66f65e-86d3-4f95-b167-ee035858222e",
+    "entity_type": "models",
+    "name": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "farbodtavakkoli",
+    "downloads": 5428374
+  },
+  {
+    "id": "c20546e7-f9d1-4ba1-8016-800ea1b4bed9",
+    "entity_type": "models",
+    "name": "ornith-ai/Ornith-1.0-9B-GGUF",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "ornith-ai",
+    "downloads": 5058895
+  },
+  {
+    "id": "6c994425-353b-4d6b-84be-7cb1c9622dea",
+    "entity_type": "models",
+    "name": "google/gemma-3-1b-it",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/google/gemma-3-1b-it",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/google/gemma-3-1b-it"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "google",
+    "downloads": 5002265
+  },
+  {
+    "id": "9c704148-f720-4dde-b5d6-7e4442ec1dfa",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-32B",
+    "description": "text-generation model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-32B",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-32B"
+    },
+    "ingested_at": "2026-08-18T08:28:24.607181+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-generation"
+    ],
+    "provider": "Qwen",
+    "downloads": 4846163
+  },
+  {
+    "id": "45811db2-d6e8-4bd4-8bea-38a0bc89d152",
+    "entity_type": "models",
+    "name": "stabilityai/stable-diffusion-xl-base-1.0",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "stabilityai",
+    "downloads": 1553463
+  },
+  {
+    "id": "81ee5619-0396-4157-b624-cebfb286c3c4",
+    "entity_type": "models",
+    "name": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "stable-diffusion-v1-5",
+    "downloads": 1470357
+  },
+  {
+    "id": "23daedce-e451-429f-8053-350441a70d7b",
+    "entity_type": "models",
+    "name": "stabilityai/sdxl-turbo",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/stabilityai/sdxl-turbo",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stabilityai/sdxl-turbo"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "stabilityai",
+    "downloads": 1252340
+  },
+  {
+    "id": "c608501f-7eed-4a1c-8d00-c75aa2141c0c",
+    "entity_type": "models",
+    "name": "Lykon/dreamshaper-7",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/Lykon/dreamshaper-7",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Lykon/dreamshaper-7"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "Lykon",
+    "downloads": 902570
+  },
+  {
+    "id": "0b69d21e-a7a1-453e-8a0f-e43628233e0f",
+    "entity_type": "models",
+    "name": "Tongyi-MAI/Z-Image-Turbo",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "Tongyi-MAI",
+    "downloads": 882177
+  },
+  {
+    "id": "b6b4311d-f5c4-49a2-823d-24c8424de5d4",
+    "entity_type": "models",
+    "name": "wikeeyang/Flux2-Klein-9B-True-V2",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "wikeeyang",
+    "downloads": 833315
+  },
+  {
+    "id": "e8ed071b-522a-4156-bd20-29b7e37b4394",
+    "entity_type": "models",
+    "name": "stabilityai/sd-turbo",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/stabilityai/sd-turbo",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stabilityai/sd-turbo"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "stabilityai",
+    "downloads": 587190
+  },
+  {
+    "id": "cd16a1ef-bda5-44c9-8e29-373dd1e96858",
+    "entity_type": "models",
+    "name": "black-forest-labs/FLUX.1-dev",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "black-forest-labs",
+    "downloads": 585877
+  },
+  {
+    "id": "f9baff57-3f8c-4925-b96a-2a0e559b82ae",
+    "entity_type": "models",
+    "name": "SG161222/Realistic_Vision_V5.1_noVAE",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "SG161222",
+    "downloads": 441993
+  },
+  {
+    "id": "9d0a1821-62aa-4ade-b117-afafc06d5d1d",
+    "entity_type": "models",
+    "name": "lightx2v/Qwen-Image-Lightning",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "lightx2v",
+    "downloads": 441254
+  },
+  {
+    "id": "339aef19-9261-4170-a661-f2553a3f246e",
+    "entity_type": "models",
+    "name": "CompVis/stable-diffusion-v1-4",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "CompVis",
+    "downloads": 438889
+  },
+  {
+    "id": "a4f75b98-e915-4c0a-86bf-c33865cda3d0",
+    "entity_type": "models",
+    "name": "playgroundai/playground-v2.5-1024px-aesthetic",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "playgroundai",
+    "downloads": 417366
+  },
+  {
+    "id": "58935a02-bf0e-4a6a-9033-dbbe7f1d102a",
+    "entity_type": "models",
+    "name": "SG161222/RealVisXL_V5.0",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/SG161222/RealVisXL_V5.0",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/SG161222/RealVisXL_V5.0"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "SG161222",
+    "downloads": 394893
+  },
+  {
+    "id": "c8498d1b-956f-4577-b982-62c3ddb8f0d0",
+    "entity_type": "models",
+    "name": "black-forest-labs/FLUX.1-schnell",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "black-forest-labs",
+    "downloads": 365144
+  },
+  {
+    "id": "7f401098-b35b-42fe-b7ec-24b5fc3bb610",
+    "entity_type": "models",
+    "name": "cagliostrolab/animagine-xl-4.0",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/cagliostrolab/animagine-xl-4.0",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/cagliostrolab/animagine-xl-4.0"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "cagliostrolab",
+    "downloads": 262702
+  },
+  {
+    "id": "380b4976-a1e3-4a67-96d7-447305fbdc20",
+    "entity_type": "models",
+    "name": "LyliaEngine/Pony_Diffusion_V6_XL",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "LyliaEngine",
+    "downloads": 254581
+  },
+  {
+    "id": "64c03ede-a13b-4bfe-8074-168366aa281f",
+    "entity_type": "models",
+    "name": "Qwen/Qwen-Image",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen-Image",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen-Image"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "Qwen",
+    "downloads": 233353
+  },
+  {
+    "id": "964927db-d93a-4196-b883-8762b589dcf6",
+    "entity_type": "models",
+    "name": "nphSi/Z-Image-Lora",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/nphSi/Z-Image-Lora",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/nphSi/Z-Image-Lora"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "nphSi",
+    "downloads": 219222
+  },
+  {
+    "id": "40b0ab04-ed2b-434c-9207-77d4435399ca",
+    "entity_type": "models",
+    "name": "h94/IP-Adapter-FaceID",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/h94/IP-Adapter-FaceID"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "h94",
+    "downloads": 213213
+  },
+  {
+    "id": "59240f43-655d-4cb4-9261-bdbc2356c374",
+    "entity_type": "models",
+    "name": "RunDiffusion/Juggernaut-XL-v9",
+    "description": "text-to-image model on Hugging Face",
+    "url": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9"
+    },
+    "ingested_at": "2026-08-18T08:28:24.899663+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-image"
+    ],
+    "provider": "RunDiffusion",
+    "downloads": 213185
+  },
+  {
+    "id": "90ad2770-37d2-4c12-a4b0-91a1f08ae5cd",
+    "entity_type": "models",
+    "name": "argmaxinc/whisperkit-coreml",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/argmaxinc/whisperkit-coreml"
+    },
+    "ingested_at": "2026-08-18T08:28:25.164595+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "argmaxinc",
+    "downloads": 10145283
+  },
+  {
+    "id": "13df4aa3-6fb9-4480-9ced-5c0176e773a0",
+    "entity_type": "models",
+    "name": "pyannote/speaker-diarization-3.1",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/pyannote/speaker-diarization-3.1"
+    },
+    "ingested_at": "2026-08-18T08:28:25.164595+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "pyannote",
+    "downloads": 9686217
+  },
+  {
+    "id": "5594d4b0-9500-4998-9333-86495fa119b2",
+    "entity_type": "models",
+    "name": "openai/whisper-large-v3-turbo",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/openai/whisper-large-v3-turbo",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-large-v3-turbo"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "openai",
+    "downloads": 7959413
+  },
+  {
+    "id": "5d28a7b3-a49c-41d1-948f-ce042cec3fce",
+    "entity_type": "models",
+    "name": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "jonatasgrosman",
+    "downloads": 6367234
+  },
+  {
+    "id": "ec2e5745-53d1-4880-99dc-9f3be2006956",
+    "entity_type": "models",
+    "name": "pyannote/speaker-diarization-community-1",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/pyannote/speaker-diarization-community-1",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/pyannote/speaker-diarization-community-1"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "pyannote",
+    "downloads": 5400252
+  },
+  {
+    "id": "7f272738-307e-4272-a7be-e14bb375747e",
+    "entity_type": "models",
+    "name": "openai/whisper-large-v3",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/openai/whisper-large-v3",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-large-v3"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "openai",
+    "downloads": 4948160
+  },
+  {
+    "id": "588ae765-aa8e-468d-b2dd-277b53a0d8bb",
+    "entity_type": "models",
+    "name": "jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "jonatasgrosman",
+    "downloads": 4921779
+  },
+  {
+    "id": "288349bc-4a0d-4eb1-97a5-32c604da6f52",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-ASR-1.7B",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "Qwen",
+    "downloads": 4332517
+  },
+  {
+    "id": "9b7af802-bbed-4a25-9040-58d65a15c7bf",
+    "entity_type": "models",
+    "name": "pyannote/voice-activity-detection",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/pyannote/voice-activity-detection",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/pyannote/voice-activity-detection"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "pyannote",
+    "downloads": 4163953
+  },
+  {
+    "id": "8a70a915-f38a-40e7-8460-361367e12513",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-ASR-0.6B",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-ASR-0.6B",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-ASR-0.6B"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "Qwen",
+    "downloads": 4127186
+  },
+  {
+    "id": "308784fa-8b15-4fe7-b54f-4a416c409a13",
+    "entity_type": "models",
+    "name": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "jonatasgrosman",
+    "downloads": 4032524
+  },
+  {
+    "id": "8f5e0fd5-2302-43f6-b440-0326d35219cc",
+    "entity_type": "models",
+    "name": "openai/whisper-base",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/openai/whisper-base",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-base"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "openai",
+    "downloads": 2784805
+  },
+  {
+    "id": "f189ffd6-cb0a-4452-a02a-44e5efdd7053",
+    "entity_type": "models",
+    "name": "openai/whisper-small",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/openai/whisper-small",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-small"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "openai",
+    "downloads": 2665444
+  },
+  {
+    "id": "f99a78d1-68d0-4537-bb81-4ecd8761012c",
+    "entity_type": "models",
+    "name": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "jonatasgrosman",
+    "downloads": 2545954
+  },
+  {
+    "id": "e171d648-25f2-4ecf-9b7a-52622a90f166",
+    "entity_type": "models",
+    "name": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/MahmoudAshraf/mms-300m-1130-forced-aligner"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "MahmoudAshraf",
+    "downloads": 2462346
+  },
+  {
+    "id": "6cf7fd7f-bf63-4a2b-888c-94d8d861a571",
+    "entity_type": "models",
+    "name": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "mistralai",
+    "downloads": 2269581
+  },
+  {
+    "id": "b9b08958-027f-4ea1-bf42-1bd9a7fd22ce",
+    "entity_type": "models",
+    "name": "mlx-community/parakeet-tdt-0.6b-v2",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "mlx-community",
+    "downloads": 2195476
+  },
+  {
+    "id": "2e949936-0a11-4ee3-a6bc-750d6841d280",
+    "entity_type": "models",
+    "name": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "jonatasgrosman",
+    "downloads": 2062709
+  },
+  {
+    "id": "308b4050-0bfc-4209-8df6-8f627afaaa46",
+    "entity_type": "models",
+    "name": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/indonesian-nlp/wav2vec2-indonesian-javanese-sundanese"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "indonesian-nlp",
+    "downloads": 2009582
+  },
+  {
+    "id": "ed628895-4549-4cd4-88f7-5d9e713513dc",
+    "entity_type": "models",
+    "name": "handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
+    "description": "automatic-speech-recognition model on Hugging Face",
+    "url": "https://huggingface.co/handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf"
+    },
+    "ingested_at": "2026-08-18T08:28:25.165592+00:00",
+    "license": "unknown",
+    "modalities": [
+      "automatic-speech-recognition"
+    ],
+    "provider": "handy-computer",
+    "downloads": 1979384
+  },
+  {
+    "id": "cfaf6b71-6d77-4df4-98e0-0ebbb18299fb",
+    "entity_type": "models",
+    "name": "timm/mobilenetv3_small_100.lamb_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 18519516
+  },
+  {
+    "id": "5eb0e252-c453-4513-8758-aff5d05deb21",
+    "entity_type": "models",
+    "name": "google/vit-base-patch16-224",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/google/vit-base-patch16-224",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/google/vit-base-patch16-224"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "google",
+    "downloads": 4788883
+  },
+  {
+    "id": "b1d45b0b-f7e2-468f-9a82-6aaa3f44e3cb",
+    "entity_type": "models",
+    "name": "Falconsai/nsfw_image_detection",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Falconsai/nsfw_image_detection"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "Falconsai",
+    "downloads": 4430621
+  },
+  {
+    "id": "7d05268a-3d2e-4c57-b99a-378ab26645d7",
+    "entity_type": "models",
+    "name": "timm/tf_efficientnetv2_s.in21k_ft_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/tf_efficientnetv2_s.in21k_ft_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/tf_efficientnetv2_s.in21k_ft_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 2303681
+  },
+  {
+    "id": "6e22bcee-8d50-46b7-a463-3948c2056452",
+    "entity_type": "models",
+    "name": "timm/resnet50.a1_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/resnet50.a1_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/resnet50.a1_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 2018010
+  },
+  {
+    "id": "5dd65936-0a27-43bd-92ca-09835ca5799b",
+    "entity_type": "models",
+    "name": "dima806/fairface_age_image_detection",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/dima806/fairface_age_image_detection",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/dima806/fairface_age_image_detection"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "dima806",
+    "downloads": 1982138
+  },
+  {
+    "id": "1c40a84a-3919-460a-b97d-42a6eb560867",
+    "entity_type": "models",
+    "name": "timm/resnet18.a1_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/resnet18.a1_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/resnet18.a1_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 1749553
+  },
+  {
+    "id": "0af61026-b6ff-4a72-a396-041dd84bc0af",
+    "entity_type": "models",
+    "name": "microsoft/resnet-50",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/microsoft/resnet-50",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/microsoft/resnet-50"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "microsoft",
+    "downloads": 1655177
+  },
+  {
+    "id": "a81f1532-8682-497e-894c-f86590f097f3",
+    "entity_type": "models",
+    "name": "rizvandwiki/gender-classification",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/rizvandwiki/gender-classification",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/rizvandwiki/gender-classification"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "rizvandwiki",
+    "downloads": 1528121
+  },
+  {
+    "id": "604da42d-e47c-4dcd-b159-5caabd8976b1",
+    "entity_type": "models",
+    "name": "timm/resnet50.ram_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/resnet50.ram_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/resnet50.ram_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 1324147
+  },
+  {
+    "id": "3de844f5-e85f-4e3a-bb2d-acc02670a154",
+    "entity_type": "models",
+    "name": "nvidia/mit-b2",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/nvidia/mit-b2",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/nvidia/mit-b2"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "nvidia",
+    "downloads": 1181112
+  },
+  {
+    "id": "891c5e33-6a84-424f-8959-469b8e443945",
+    "entity_type": "models",
+    "name": "timm/efficientnet_b0.ra_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/efficientnet_b0.ra_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/efficientnet_b0.ra_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 1149892
+  },
+  {
+    "id": "daafedc9-da54-4396-94ad-f0272863e8f1",
+    "entity_type": "models",
+    "name": "timm/resnet18.a3_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/resnet18.a3_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/resnet18.a3_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 986130
+  },
+  {
+    "id": "c68c08be-25c0-4747-b1c5-f010e69280ac",
+    "entity_type": "models",
+    "name": "amunchet/rorshark-vit-base",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/amunchet/rorshark-vit-base",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/amunchet/rorshark-vit-base"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "amunchet",
+    "downloads": 905045
+  },
+  {
+    "id": "6d86d622-81f5-472a-b7c0-b825ce360fd5",
+    "entity_type": "models",
+    "name": "AdamCodd/vit-base-nsfw-detector",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/AdamCodd/vit-base-nsfw-detector",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/AdamCodd/vit-base-nsfw-detector"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "AdamCodd",
+    "downloads": 740078
+  },
+  {
+    "id": "03d3697b-1a0b-46cc-8b26-b9b570b007ce",
+    "entity_type": "models",
+    "name": "timm/vit_tiny_patch16_224.augreg_in21k_ft_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/vit_tiny_patch16_224.augreg_in21k_ft_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/vit_tiny_patch16_224.augreg_in21k_ft_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 654697
+  },
+  {
+    "id": "3c234ad3-a772-4ba1-91eb-d845a712563f",
+    "entity_type": "models",
+    "name": "Freepik/nsfw_image_detector",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/Freepik/nsfw_image_detector",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Freepik/nsfw_image_detector"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "Freepik",
+    "downloads": 592126
+  },
+  {
+    "id": "494ffb46-4bb0-4324-92ee-89f3b64b16ac",
+    "entity_type": "models",
+    "name": "timm/vit_base_patch8_224.augreg2_in21k_ft_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/vit_base_patch8_224.augreg2_in21k_ft_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/vit_base_patch8_224.augreg2_in21k_ft_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 531196
+  },
+  {
+    "id": "7d7ed437-4b7c-49f8-8187-5a70dc318ff5",
+    "entity_type": "models",
+    "name": "timm/resnet34.a1_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/resnet34.a1_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/resnet34.a1_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 530180
+  },
+  {
+    "id": "3346401f-3535-4ff8-a4d4-2558bfe0e6ba",
+    "entity_type": "models",
+    "name": "timm/convnext_tiny.in12k_ft_in1k",
+    "description": "image-classification model on Hugging Face",
+    "url": "https://huggingface.co/timm/convnext_tiny.in12k_ft_in1k",
+    "categories": [
+      "Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/timm/convnext_tiny.in12k_ft_in1k"
+    },
+    "ingested_at": "2026-08-18T08:28:25.444322+00:00",
+    "license": "unknown",
+    "modalities": [
+      "image-classification"
+    ],
+    "provider": "timm",
+    "downloads": 488450
+  },
+  {
+    "id": "0140fa15-ccfd-4aca-a527-11dbac000b4a",
+    "entity_type": "models",
+    "name": "hexgrad/Kokoro-82M",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "hexgrad",
+    "downloads": 12468773
+  },
+  {
+    "id": "8c4512ee-2b9e-40a4-a53f-2b3c28409d46",
+    "entity_type": "models",
+    "name": "coqui/XTTS-v2",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/coqui/XTTS-v2",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/coqui/XTTS-v2"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "coqui",
+    "downloads": 8576654
+  },
+  {
+    "id": "a271c45c-c15c-4650-86a4-0786d90cd7ca",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "Qwen",
+    "downloads": 2255320
+  },
+  {
+    "id": "821388c5-0334-4c0b-9e3c-f4e61fbe26b9",
+    "entity_type": "models",
+    "name": "ResembleAI/chatterbox",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/ResembleAI/chatterbox",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ResembleAI/chatterbox"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "ResembleAI",
+    "downloads": 2071830
+  },
+  {
+    "id": "81db4aae-41d6-4368-8c42-09d4229dfe99",
+    "entity_type": "models",
+    "name": "onnx-community/Kokoro-82M-v1.0-ONNX",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "onnx-community",
+    "downloads": 1676084
+  },
+  {
+    "id": "1c1d9db6-bac4-4c59-bdd5-68008b653487",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "Qwen",
+    "downloads": 1452762
+  },
+  {
+    "id": "bfab74e9-82a5-4ed4-839b-76941444acbc",
+    "entity_type": "models",
+    "name": "k2-fsa/OmniVoice",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/k2-fsa/OmniVoice",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/k2-fsa/OmniVoice"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "k2-fsa",
+    "downloads": 896918
+  },
+  {
+    "id": "55878410-0a99-48fc-be0f-c90f4688d277",
+    "entity_type": "models",
+    "name": "SWivid/F5-TTS",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/SWivid/F5-TTS",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/SWivid/F5-TTS"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "SWivid",
+    "downloads": 747303
+  },
+  {
+    "id": "1336bad7-e394-4202-953e-c1fc359a9b54",
+    "entity_type": "models",
+    "name": "microsoft/VibeVoice-Realtime-0.5B",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "microsoft",
+    "downloads": 666107
+  },
+  {
+    "id": "59331237-8bc4-4d2f-a02c-58d14ba3b8a8",
+    "entity_type": "models",
+    "name": "Serveurperso/Qwen3-TTS-GGUF",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "Serveurperso",
+    "downloads": 632405
+  },
+  {
+    "id": "f6c51f77-ea6f-4df9-9b61-1a91cb96544a",
+    "entity_type": "models",
+    "name": "bosonai/higgs-tts-2-3b-base",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/bosonai/higgs-tts-2-3b-base",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/bosonai/higgs-tts-2-3b-base"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "bosonai",
+    "downloads": 555440
+  },
+  {
+    "id": "5da04763-2f67-4b36-a569-9c4101d9fcc8",
+    "entity_type": "models",
+    "name": "fishaudio/s2-pro",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/fishaudio/s2-pro",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/fishaudio/s2-pro"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "fishaudio",
+    "downloads": 523987
+  },
+  {
+    "id": "93ecbd0d-16d4-4668-a6f0-f8556afc0565",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "Qwen",
+    "downloads": 520457
+  },
+  {
+    "id": "d68180f7-113f-48f2-9389-b5f9e1703e19",
+    "entity_type": "models",
+    "name": "openbmb/VoxCPM2",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/openbmb/VoxCPM2",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openbmb/VoxCPM2"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "openbmb",
+    "downloads": 453089
+  },
+  {
+    "id": "bd4c6f7b-dfb9-45bc-bf0c-e6f6c282c476",
+    "entity_type": "models",
+    "name": "audio-cpp/audio.cpp-gguf",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/audio-cpp/audio.cpp-gguf",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/audio-cpp/audio.cpp-gguf"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "audio-cpp",
+    "downloads": 419488
+  },
+  {
+    "id": "605948b8-53e3-4c76-8ff6-3bd486910d9a",
+    "entity_type": "models",
+    "name": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "Qwen",
+    "downloads": 407578
+  },
+  {
+    "id": "5f04cfc6-8eea-4133-ae5a-585454b795e4",
+    "entity_type": "models",
+    "name": "ai4bharat/indic-parler-tts",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/ai4bharat/indic-parler-tts",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ai4bharat/indic-parler-tts"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "ai4bharat",
+    "downloads": 375567
+  },
+  {
+    "id": "e7ca891e-1098-4ad5-ae7f-6e762f0807da",
+    "entity_type": "models",
+    "name": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "pnnbao-ump",
+    "downloads": 352373
+  },
+  {
+    "id": "eae59a2d-0427-4214-8f62-d01cc1c49447",
+    "entity_type": "models",
+    "name": "speechbrain/tts-hifigan-libritts-22050Hz",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/speechbrain/tts-hifigan-libritts-22050Hz",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/speechbrain/tts-hifigan-libritts-22050Hz"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "speechbrain",
+    "downloads": 312101
+  },
+  {
+    "id": "9d19944d-3793-46b4-8537-a38716c86580",
+    "entity_type": "models",
+    "name": "parler-tts/parler-tts-mini-multilingual-v1.1",
+    "description": "text-to-speech model on Hugging Face",
+    "url": "https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1",
+    "categories": [
+      "Models",
+      "Creative"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1"
+    },
+    "ingested_at": "2026-08-18T08:28:25.699614+00:00",
+    "license": "unknown",
+    "modalities": [
+      "text-to-speech"
+    ],
+    "provider": "parler-tts",
+    "downloads": 239145
+  }
+]

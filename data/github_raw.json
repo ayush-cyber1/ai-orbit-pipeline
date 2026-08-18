@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "a89c6cf7-dd43-4f17-91f7-f0009db3d33a",
+    "entity_type": "repositories",
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/tensorflow/tensorflow"
+    },
+    "ingested_at": "2026-08-18T08:55:20.888236+00:00",
+    "stars": 197021,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:51:28Z"
+  },
+  {
+    "id": "63362c63-18ce-4411-9844-74367a934492",
+    "entity_type": "repositories",
+    "name": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "url": "https://github.com/huggingface/transformers",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 164211,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:43:57Z"
+  },
+  {
+    "id": "55659ff9-9f1a-402c-972a-38ae535d44bf",
+    "entity_type": "repositories",
+    "name": "josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 74048,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:51:28Z"
+  },
+  {
+    "id": "74f80cd0-e7aa-4999-85b7-be736b851d6f",
+    "entity_type": "repositories",
+    "name": "PaddlePaddle/Paddle",
+    "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/PaddlePaddle/Paddle"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 24054,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T04:09:00Z"
+  },
+  {
+    "id": "033bc84a-3069-49d2-9b4e-de9a5a6d2500",
+    "entity_type": "repositories",
+    "name": "RasaHQ/rasa",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "url": "https://github.com/RasaHQ/rasa",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/RasaHQ/rasa"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 21294,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T02:32:10Z"
+  },
+  {
+    "id": "0ea95b97-f965-4b08-8f47-4a8bf06228c9",
+    "entity_type": "repositories",
+    "name": "k4yt3x/video2x",
+    "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+    "url": "https://github.com/k4yt3x/video2x",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/k4yt3x/video2x"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 20956,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:44:01Z"
+  },
+  {
+    "id": "d36341c2-a3d2-4928-bee2-ceb596eb4531",
+    "entity_type": "repositories",
+    "name": "lightgbm-org/LightGBM",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "url": "https://github.com/lightgbm-org/LightGBM",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/lightgbm-org/LightGBM"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 18692,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:15:55Z"
+  },
+  {
+    "id": "8ab61c03-3cb1-443b-8dab-0192dbae67c2",
+    "entity_type": "repositories",
+    "name": "apache/brpc",
+    "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+    "url": "https://github.com/apache/brpc",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/apache/brpc"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 17584,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T05:55:52Z"
+  },
+  {
+    "id": "916b61cd-8822-4d79-b778-9e0c694dfada",
+    "entity_type": "repositories",
+    "name": "unifyai/ivy",
+    "description": "Convert Machine Learning Code Between Frameworks",
+    "url": "https://github.com/unifyai/ivy",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/unifyai/ivy"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 14170,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T02:31:48Z"
+  },
+  {
+    "id": "9686d22e-97ec-412e-a58c-c75e45e78855",
+    "entity_type": "repositories",
+    "name": "apache/tvm",
+    "description": "Open Machine Learning Compiler Framework",
+    "url": "https://github.com/apache/tvm",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/apache/tvm"
+    },
+    "ingested_at": "2026-08-18T08:55:20.891406+00:00",
+    "stars": 13669,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T04:53:35Z"
+  },
+  {
+    "id": "30b89300-e2ce-41ac-a527-b3ea5364eb25",
+    "entity_type": "repositories",
+    "name": "sktime/sktime",
+    "description": "A unified framework for machine learning with time series",
+    "url": "https://github.com/sktime/sktime",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/sktime/sktime"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 9937,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:54:00Z"
+  },
+  {
+    "id": "0456202f-1bac-449f-9d7e-7f952fbc7496",
+    "entity_type": "repositories",
+    "name": "dotnet/machinelearning",
+    "description": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+    "url": "https://github.com/dotnet/machinelearning",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/dotnet/machinelearning"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 9347,
+    "primary_language": "C#",
+    "last_updated": "2026-08-16T18:53:12Z"
+  },
+  {
+    "id": "476c4239-84df-47bc-82d5-732dbb55b5f9",
+    "entity_type": "repositories",
+    "name": "NVIDIA/warp",
+    "description": "A Python framework for GPU-accelerated simulation, robotics, and machine learning.",
+    "url": "https://github.com/NVIDIA/warp",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/NVIDIA/warp"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 7014,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T05:43:22Z"
+  },
+  {
+    "id": "38e8a862-0838-4f2f-9e21-322f3184337d",
+    "entity_type": "repositories",
+    "name": "SeldonIO/seldon-core",
+    "description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+    "url": "https://github.com/SeldonIO/seldon-core",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/SeldonIO/seldon-core"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4772,
+    "primary_language": "Go",
+    "last_updated": "2026-08-16T00:13:07Z"
+  },
+  {
+    "id": "e81172b9-8160-425f-95c8-75eee801754d",
+    "entity_type": "repositories",
+    "name": "rust-ml/linfa",
+    "description": "A Rust machine learning framework.",
+    "url": "https://github.com/rust-ml/linfa",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/rust-ml/linfa"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4729,
+    "primary_language": "Rust",
+    "last_updated": "2026-08-17T22:18:32Z"
+  },
+  {
+    "id": "95e85dd1-b123-4040-bef8-a69846ecb396",
+    "entity_type": "repositories",
+    "name": "dotnet/machinelearning-samples",
+    "description": "Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.",
+    "url": "https://github.com/dotnet/machinelearning-samples",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/dotnet/machinelearning-samples"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4685,
+    "primary_language": "PowerShell",
+    "last_updated": "2026-08-13T14:50:32Z"
+  },
+  {
+    "id": "4e503346-89e3-4347-9707-cddf8edca362",
+    "entity_type": "repositories",
+    "name": "accord-net/framework",
+    "description": "Machine learning, computer vision, statistics and general scientific computing for .NET",
+    "url": "https://github.com/accord-net/framework",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/accord-net/framework"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4535,
+    "primary_language": "C#",
+    "last_updated": "2026-08-14T13:15:13Z"
+  },
+  {
+    "id": "bbc648fe-2d6b-4951-bbdd-87a942d2a5b5",
+    "entity_type": "repositories",
+    "name": "salesforce/Merlion",
+    "description": "Merlion: A Machine Learning Framework for Time Series Intelligence",
+    "url": "https://github.com/salesforce/Merlion",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/salesforce/Merlion"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4491,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T01:46:53Z"
+  },
+  {
+    "id": "64f525a3-bbc6-43a8-b6f2-f2537ed5909d",
+    "entity_type": "repositories",
+    "name": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/higgsfield-ai/higgsfield"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 4081,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-18T02:32:04Z"
+  },
+  {
+    "id": "b1848ef5-6192-4909-9574-b288bbc0c17b",
+    "entity_type": "repositories",
+    "name": "edtechre/pybroker",
+    "description": "Algorithmic Trading in Python with Machine Learning",
+    "url": "https://github.com/edtechre/pybroker",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/edtechre/pybroker"
+    },
+    "ingested_at": "2026-08-18T08:55:20.892461+00:00",
+    "stars": 3510,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T01:43:38Z"
+  },
+  {
+    "id": "7fbf46b5-a5e8-4035-9ca0-8f9443b20697",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/python-sdk",
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/python-sdk"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 24039,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:53:23Z"
+  },
+  {
+    "id": "f06b6af1-fff7-44ff-88c5-957e13b0f778",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/typescript-sdk",
+    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 13197,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T07:20:41Z"
+  },
+  {
+    "id": "1a7c6f7a-fdbd-4301-b98a-442946434521",
+    "entity_type": "mcp",
+    "name": "hangwin/mcp-chrome",
+    "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+    "url": "https://github.com/hangwin/mcp-chrome",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/hangwin/mcp-chrome"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 12318,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T06:58:38Z"
+  },
+  {
+    "id": "441d780b-8921-4b4a-971f-416dc4bd5e2c",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "url": "https://github.com/modelcontextprotocol/registry",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/registry"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 7165,
+    "primary_language": "Go",
+    "last_updated": "2026-08-18T06:44:38Z"
+  },
+  {
+    "id": "22d1c00e-e1c6-48ac-90a1-284094aa902b",
+    "entity_type": "mcp",
+    "name": "getsentry/XcodeBuildMCP",
+    "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+    "url": "https://github.com/getsentry/XcodeBuildMCP",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/getsentry/XcodeBuildMCP"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 6256,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T08:52:42Z"
+  },
+  {
+    "id": "1bf8d85c-4619-4d51-8d2e-8e70a8aa3709",
+    "entity_type": "mcp",
+    "name": "mobile-next/mobile-mcp",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mobile-next/mobile-mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5944,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T08:23:31Z"
+  },
+  {
+    "id": "a247ba10-1e27-41e4-b64a-a5cad35cb4fe",
+    "entity_type": "mcp",
+    "name": "jacob-bd/gemini-notebook-mcp-cli",
+    "description": "Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.",
+    "url": "https://github.com/jacob-bd/gemini-notebook-mcp-cli",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jacob-bd/gemini-notebook-mcp-cli"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5885,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T06:52:53Z"
+  },
+  {
+    "id": "f3b4a55b-1ac7-4ec0-bb60-e5c3ff7b1036",
+    "entity_type": "mcp",
+    "name": "appcypher/awesome-mcp-servers",
+    "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+    "url": "https://github.com/appcypher/awesome-mcp-servers",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/appcypher/awesome-mcp-servers"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5749,
+    "primary_language": null,
+    "last_updated": "2026-08-18T06:03:54Z"
+  },
+  {
+    "id": "85b1923e-516c-4da5-aa60-81b078453e8e",
+    "entity_type": "mcp",
+    "name": "executeautomation/mcp-playwright",
+    "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
+    "url": "https://github.com/executeautomation/mcp-playwright",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/executeautomation/mcp-playwright"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5632,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T02:23:41Z"
+  },
+  {
+    "id": "da65dbbc-14bb-4aac-8dde-e86da70a8439",
+    "entity_type": "mcp",
+    "name": "nanbingxyz/5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
+    "url": "https://github.com/nanbingxyz/5ire",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/nanbingxyz/5ire"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5335,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-17T06:27:18Z"
+  },
+  {
+    "id": "ab7a52e6-2337-4a4d-a6e2-c3b5fffd75d0",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/go-sdk",
+    "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "url": "https://github.com/modelcontextprotocol/go-sdk",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/go-sdk"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 5001,
+    "primary_language": "Go",
+    "last_updated": "2026-08-18T08:05:22Z"
+  },
+  {
+    "id": "1212806d-8fb0-41e4-9227-0b54cf215c61",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/csharp-sdk",
+    "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
+    "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 4481,
+    "primary_language": "C#",
+    "last_updated": "2026-08-18T05:44:31Z"
+  },
+  {
+    "id": "7a552505-1be1-4346-963c-6d13d05ff96e",
+    "entity_type": "mcp",
+    "name": "Pimzino/spec-workflow-mcp",
+    "description": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.",
+    "url": "https://github.com/Pimzino/spec-workflow-mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Pimzino/spec-workflow-mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 4291,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-14T13:19:55Z"
+  },
+  {
+    "id": "56e7a36c-e41b-4268-ba70-bae944b75bdb",
+    "entity_type": "mcp",
+    "name": "wong2/awesome-mcp-servers",
+    "description": "A curated list of Model Context Protocol (MCP) servers",
+    "url": "https://github.com/wong2/awesome-mcp-servers",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/wong2/awesome-mcp-servers"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 4267,
+    "primary_language": null,
+    "last_updated": "2026-08-17T16:21:27Z"
+  },
+  {
+    "id": "9cbebb36-0fcf-4974-8589-f8a0a42909c9",
+    "entity_type": "mcp",
+    "name": "haris-musa/excel-mcp-server",
+    "description": "A Model Context Protocol server for Excel file manipulation",
+    "url": "https://github.com/haris-musa/excel-mcp-server",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/haris-musa/excel-mcp-server"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 4114,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T02:17:02Z"
+  },
+  {
+    "id": "19ac8eec-58dc-4c30-b087-36182b5dc0c8",
+    "entity_type": "mcp",
+    "name": "modelcontextprotocol/java-sdk",
+    "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+    "url": "https://github.com/modelcontextprotocol/java-sdk",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/java-sdk"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 3660,
+    "primary_language": "Java",
+    "last_updated": "2026-08-18T08:08:33Z"
+  },
+  {
+    "id": "c9a70b63-c8da-4e10-a0ac-2e38099cddea",
+    "entity_type": "mcp",
+    "name": "opensumi/core",
+    "description": "A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.",
+    "url": "https://github.com/opensumi/core",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/opensumi/core"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 3653,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-11T04:17:51Z"
+  },
+  {
+    "id": "82a091e7-6051-4ade-8071-2c2f3279c488",
+    "entity_type": "mcp",
+    "name": "microsoft/mcp",
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "url": "https://github.com/microsoft/mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 3579,
+    "primary_language": "C#",
+    "last_updated": "2026-08-17T23:58:09Z"
+  },
+  {
+    "id": "2e02bc16-8162-4a77-a852-215331ac8d75",
+    "entity_type": "mcp",
+    "name": "blazickjp/arxiv-mcp-server",
+    "description": "A Model Context Protocol server for searching and analyzing arXiv papers",
+    "url": "https://github.com/blazickjp/arxiv-mcp-server",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/blazickjp/arxiv-mcp-server"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 3063,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T10:33:18Z"
+  },
+  {
+    "id": "23ded2f7-f80d-4e92-a902-e948ac0adc1b",
+    "entity_type": "mcp",
+    "name": "zcaceres/markdownify-mcp",
+    "description": "A Model Context Protocol server for converting almost anything to Markdown",
+    "url": "https://github.com/zcaceres/markdownify-mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/zcaceres/markdownify-mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:22.845277+00:00",
+    "stars": 2911,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-17T01:33:42Z"
+  },
+  {
+    "id": "01701f99-dd03-449a-aaec-77287368887e",
+    "entity_type": "repositories",
+    "name": "langchain-ai/langchain",
+    "description": "The agent engineering platform.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 144453,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:47:39Z"
+  },
+  {
+    "id": "0e5ca2a6-2eaf-4f22-9de1-a2ad5af0d87e",
+    "entity_type": "repositories",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 98745,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:55:38Z"
+  },
+  {
+    "id": "ba10b8d7-f03a-40ce-a97a-5d923f88f151",
+    "entity_type": "repositories",
+    "name": "FoundationAgents/MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/FoundationAgents/MetaGPT"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 69874,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:48:57Z"
+  },
+  {
+    "id": "6900714c-9f28-4747-9f98-ed4e57b47aaa",
+    "entity_type": "repositories",
+    "name": "run-llama/llama_index",
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "url": "https://github.com/run-llama/llama_index",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 51721,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:42:22Z"
+  },
+  {
+    "id": "30372029-75cb-4bde-9d2e-2e2ca831e2c5",
+    "entity_type": "repositories",
+    "name": "langchain-ai/langgraph",
+    "description": "Build resilient agents.",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langgraph"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 39912,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:43:15Z"
+  },
+  {
+    "id": "fd6b2e77-4ad7-4d0d-bd63-b80d6c751367",
+    "entity_type": "repositories",
+    "name": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/AstrBotDevs/AstrBot"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 39320,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:34:51Z"
+  },
+  {
+    "id": "c03f15ec-9829-45f7-96e6-6f6479ddbbc8",
+    "entity_type": "repositories",
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "url": "https://github.com/openai/openai-agents-python",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/openai/openai-agents-python"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 28737,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:46:42Z"
+  },
+  {
+    "id": "419e0ffa-ffe4-49c7-a0be-37bee4d775db",
+    "entity_type": "repositories",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 28696,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:54:04Z"
+  },
+  {
+    "id": "a5ae000e-7a16-4ece-a6ee-0cdd91e34b68",
+    "entity_type": "repositories",
+    "name": "mastra-ai/mastra",
+    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+    "url": "https://github.com/mastra-ai/mastra",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mastra-ai/mastra"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 27265,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T08:52:20Z"
+  },
+  {
+    "id": "5314a29b-ec88-4673-a27a-93a6ecfac0d5",
+    "entity_type": "repositories",
+    "name": "deepset-ai/haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "url": "https://github.com/deepset-ai/haystack",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/deepset-ai/haystack"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 26239,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:38:31Z"
+  },
+  {
+    "id": "a21110fa-d8ad-4098-a01e-bbb45e81d531",
+    "entity_type": "repositories",
+    "name": "humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "url": "https://github.com/humanlayer/12-factor-agents",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/humanlayer/12-factor-agents"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 25354,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T07:42:23Z"
+  },
+  {
+    "id": "021cb2a1-4e34-4656-8e6a-42db5c7c571f",
+    "entity_type": "repositories",
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 22784,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T08:53:34Z"
+  },
+  {
+    "id": "0833f8d7-8f5d-4506-879a-307545e290a6",
+    "entity_type": "repositories",
+    "name": "TransformerOptimus/SuperAGI",
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "url": "https://github.com/TransformerOptimus/SuperAGI",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TransformerOptimus/SuperAGI"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 17656,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T04:36:22Z"
+  },
+  {
+    "id": "e19a5df4-cb1b-429a-ab23-58beecd5eef1",
+    "entity_type": "repositories",
+    "name": "raga-ai-hub/RagaAI-Catalyst",
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view",
+    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst"
+    },
+    "ingested_at": "2026-08-18T08:55:24.916271+00:00",
+    "stars": 16149,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T17:52:10Z"
+  },
+  {
+    "id": "e8031eb7-47cf-4c3c-a011-d5826ab0b27e",
+    "entity_type": "repositories",
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 15659,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:42:39Z"
+  },
+  {
+    "id": "35f99a3c-08e9-4244-8ef4-1a8781a9b746",
+    "entity_type": "repositories",
+    "name": "GreyDGL/PentestGPT",
+    "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+    "url": "https://github.com/GreyDGL/PentestGPT",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/GreyDGL/PentestGPT"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 14925,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T07:51:01Z"
+  },
+  {
+    "id": "b17d9fc1-c5f9-47ef-8e55-fcd3d635ea90",
+    "entity_type": "repositories",
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 14839,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:52:38Z"
+  },
+  {
+    "id": "718eb27f-90ce-4f3a-b00b-3e6432d0c471",
+    "entity_type": "repositories",
+    "name": "langchain4j/langchain4j",
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+    "url": "https://github.com/langchain4j/langchain4j",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain4j/langchain4j"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 12893,
+    "primary_language": "Java",
+    "last_updated": "2026-08-18T08:21:29Z"
+  },
+  {
+    "id": "312c5ec0-a4d5-4931-b918-beceeed0913e",
+    "entity_type": "repositories",
+    "name": "The-Pocket/PocketFlow",
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "url": "https://github.com/The-Pocket/PocketFlow",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/The-Pocket/PocketFlow"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 11111,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:17:37Z"
+  },
+  {
+    "id": "00bc0b41-5856-4f14-9a56-cac916c9a754",
+    "entity_type": "repositories",
+    "name": "VoltAgent/voltagent",
+    "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+    "url": "https://github.com/VoltAgent/voltagent",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/VoltAgent/voltagent"
+    },
+    "ingested_at": "2026-08-18T08:55:24.917269+00:00",
+    "stars": 10373,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T07:37:40Z"
+  },
+  {
+    "id": "8cb2ae5f-5122-4d47-88a8-a4d7a806d4ca",
+    "entity_type": "repositories",
+    "name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "url": "https://github.com/opencv/opencv",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/opencv/opencv"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 90479,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:50:05Z"
+  },
+  {
+    "id": "bd87e00b-e82b-4b0b-a991-e2bfbd8bb8b2",
+    "entity_type": "repositories",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "url": "https://github.com/roboflow/supervision",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 49491,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:12:59Z"
+  },
+  {
+    "id": "1217ec4c-34be-43ca-921d-a940c7f94eba",
+    "entity_type": "repositories",
+    "name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 36348,
+    "primary_language": null,
+    "last_updated": "2026-08-18T08:50:51Z"
+  },
+  {
+    "id": "d60bb468-30e0-4d52-bf1b-89d13a1fa97a",
+    "entity_type": "repositories",
+    "name": "jbhuang0604/awesome-computer-vision",
+    "description": "A curated list of awesome computer vision resources",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 23500,
+    "primary_language": null,
+    "last_updated": "2026-08-18T01:13:58Z"
+  },
+  {
+    "id": "195acfb1-34d8-44f6-88d7-68ff27dcf41e",
+    "entity_type": "repositories",
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI",
+    "url": "https://github.com/Skyvern-AI/skyvern",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Skyvern-AI/skyvern"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 22776,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T07:35:22Z"
+  },
+  {
+    "id": "f1222e74-613b-4860-99ca-5fd5ad5aa31a",
+    "entity_type": "repositories",
+    "name": "pytorch/vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "url": "https://github.com/pytorch/vision",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/pytorch/vision"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 17871,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T04:06:07Z"
+  },
+  {
+    "id": "55ef2b4e-e80d-4fe5-85e5-0c11a71d2331",
+    "entity_type": "repositories",
+    "name": "cvat-ai/cvat",
+    "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
+    "url": "https://github.com/cvat-ai/cvat",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cvat-ai/cvat"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 16539,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T04:20:07Z"
+  },
+  {
+    "id": "a67d4121-549f-4d19-ac61-b49570cbefbc",
+    "entity_type": "repositories",
+    "name": "jacobgil/pytorch-grad-cam",
+    "description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+    "url": "https://github.com/jacobgil/pytorch-grad-cam",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jacobgil/pytorch-grad-cam"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 12955,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:25:21Z"
+  },
+  {
+    "id": "5235834e-dbf8-48ec-83cd-5d02b9d3fc77",
+    "entity_type": "repositories",
+    "name": "kmario23/deep-learning-drizzle",
+    "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/kmario23/deep-learning-drizzle"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 12931,
+    "primary_language": "HTML",
+    "last_updated": "2026-08-17T16:57:03Z"
+  },
+  {
+    "id": "dd3d153d-2a5d-47a3-b488-81f4ba496cdb",
+    "entity_type": "repositories",
+    "name": "kornia/kornia",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/kornia/kornia"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 11313,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T06:39:39Z"
+  },
+  {
+    "id": "cea90976-6394-49cd-b3e8-3f9aba0f0512",
+    "entity_type": "repositories",
+    "name": "kjw0612/awesome-deep-vision",
+    "description": "A curated list of deep learning resources for computer vision",
+    "url": "https://github.com/kjw0612/awesome-deep-vision",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/kjw0612/awesome-deep-vision"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 11183,
+    "primary_language": null,
+    "last_updated": "2026-08-17T12:34:13Z"
+  },
+  {
+    "id": "7015a0bc-4b21-44da-98ce-b30f2d67acee",
+    "entity_type": "repositories",
+    "name": "microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/computervision-recipes"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 9879,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-18T01:10:22Z"
+  },
+  {
+    "id": "030358f5-8b25-4d74-a9d9-a8ee28160d75",
+    "entity_type": "repositories",
+    "name": "roboflow/notebooks",
+    "description": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL.",
+    "url": "https://github.com/roboflow/notebooks",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/roboflow/notebooks"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 9615,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-17T12:38:30Z"
+  },
+  {
+    "id": "c226c64b-c671-4055-935b-c6adb5c38f21",
+    "entity_type": "repositories",
+    "name": "eduardolundgren/tracking.js",
+    "description": "A modern approach for Computer Vision on the web",
+    "url": "https://github.com/eduardolundgren/tracking.js",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/eduardolundgren/tracking.js"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 9467,
+    "primary_language": "JavaScript",
+    "last_updated": "2026-08-14T02:41:14Z"
+  },
+  {
+    "id": "a56f9172-e26a-467c-808b-60d907941507",
+    "entity_type": "repositories",
+    "name": "OlafenwaMoses/ImageAI",
+    "description": "A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities",
+    "url": "https://github.com/OlafenwaMoses/ImageAI",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/OlafenwaMoses/ImageAI"
+    },
+    "ingested_at": "2026-08-18T08:55:27.075175+00:00",
+    "stars": 8873,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T01:44:16Z"
+  },
+  {
+    "id": "0ff1c025-4007-4016-bb8a-d7f6a76a6347",
+    "entity_type": "repositories",
+    "name": "hybridgroup/gocv",
+    "description": "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.",
+    "url": "https://github.com/hybridgroup/gocv",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/hybridgroup/gocv"
+    },
+    "ingested_at": "2026-08-18T08:55:27.076192+00:00",
+    "stars": 7485,
+    "primary_language": "Go",
+    "last_updated": "2026-08-17T09:26:31Z"
+  },
+  {
+    "id": "afd65758-705e-45e1-adcf-c0ca2cfe6c26",
+    "entity_type": "repositories",
+    "name": "liuliu/ccv",
+    "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+    "url": "https://github.com/liuliu/ccv",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/liuliu/ccv"
+    },
+    "ingested_at": "2026-08-18T08:55:27.076192+00:00",
+    "stars": 7240,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T04:47:34Z"
+  },
+  {
+    "id": "f229d4eb-184f-4f48-ae3d-65a94171fb94",
+    "entity_type": "repositories",
+    "name": "amusi/daily-paper-computer-vision",
+    "description": "记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文",
+    "url": "https://github.com/amusi/daily-paper-computer-vision",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/amusi/daily-paper-computer-vision"
+    },
+    "ingested_at": "2026-08-18T08:55:27.076192+00:00",
+    "stars": 6777,
+    "primary_language": null,
+    "last_updated": "2026-08-18T08:52:01Z"
+  },
+  {
+    "id": "8a5b40e3-099b-40c9-a058-a87a0fd1ca4c",
+    "entity_type": "repositories",
+    "name": "openMVG/openMVG",
+    "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
+    "url": "https://github.com/openMVG/openMVG",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/openMVG/openMVG"
+    },
+    "ingested_at": "2026-08-18T08:55:27.076192+00:00",
+    "stars": 6538,
+    "primary_language": "C++",
+    "last_updated": "2026-08-16T20:45:45Z"
+  },
+  {
+    "id": "4ea92b9d-27ed-485e-851d-df6147a14fcb",
+    "entity_type": "repositories",
+    "name": "open-mmlab/mmcv",
+    "description": "OpenMMLab Computer Vision Foundation",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "categories": [
+      "Models",
+      "Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/open-mmlab/mmcv"
+    },
+    "ingested_at": "2026-08-18T08:55:27.076192+00:00",
+    "stars": 6465,
+    "primary_language": "Python",
+    "last_updated": "2026-08-14T17:11:14Z"
+  },
+  {
+    "id": "769eb012-f5f6-4ef8-9c8c-f1cc5e353d65",
+    "entity_type": "robots",
+    "name": "Genesis-Embodied-AI/genesis-world",
+    "description": "Simulation platform for general-purpose robotics & embodied AI learning.",
+    "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Genesis-Embodied-AI/genesis-world"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 29760,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:19:28Z"
+  },
+  {
+    "id": "0885a5e8-7756-40ae-9a4b-3cd510035348",
+    "entity_type": "robots",
+    "name": "huggingface/lerobot",
+    "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+    "url": "https://github.com/huggingface/lerobot",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/huggingface/lerobot"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 26730,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:25:54Z"
+  },
+  {
+    "id": "7eac9e06-e778-4de5-95fd-9b540e67355a",
+    "entity_type": "robots",
+    "name": "TianxingChen/Embodied-AI-Guide",
+    "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
+    "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TianxingChen/Embodied-AI-Guide"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 15495,
+    "primary_language": null,
+    "last_updated": "2026-08-18T08:37:38Z"
+  },
+  {
+    "id": "ce3cd485-59ab-4035-b413-53aa93e6aea7",
+    "entity_type": "robots",
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "url": "https://github.com/NVIDIA/cosmos",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/NVIDIA/cosmos"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 11539,
+    "primary_language": "Jupyter Notebook",
+    "last_updated": "2026-08-18T08:11:08Z"
+  },
+  {
+    "id": "e1cb90b7-e6a7-4975-bc01-c6fc70493a1f",
+    "entity_type": "robots",
+    "name": "kornia/kornia",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/kornia/kornia"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 11313,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T06:39:39Z"
+  },
+  {
+    "id": "ec810f4d-caf7-4509-a49b-195ae4f7f36e",
+    "entity_type": "robots",
+    "name": "dusty-nv/jetson-inference",
+    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "url": "https://github.com/dusty-nv/jetson-inference",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/dusty-nv/jetson-inference"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 8965,
+    "primary_language": "C++",
+    "last_updated": "2026-08-17T08:57:44Z"
+  },
+  {
+    "id": "770b3384-8d3e-4485-8124-cd6ecce69ad4",
+    "entity_type": "robots",
+    "name": "wzpan/wukong-robot",
+    "description": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "url": "https://github.com/wzpan/wukong-robot",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/wzpan/wukong-robot"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 7125,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T00:04:09Z"
+  },
+  {
+    "id": "2e38c9f2-8098-42a4-b527-b47b13fc34a4",
+    "entity_type": "robots",
+    "name": "paperswithcode/ai-deadlines",
+    "description": ":alarm_clock: AI conference deadline countdowns",
+    "url": "https://github.com/paperswithcode/ai-deadlines",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/paperswithcode/ai-deadlines"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 5997,
+    "primary_language": "JavaScript",
+    "last_updated": "2026-08-18T06:38:59Z"
+  },
+  {
+    "id": "1a69a50b-869e-4db2-b7b2-30bb640a01ae",
+    "entity_type": "robots",
+    "name": "cactus-compute/cactus",
+    "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
+    "url": "https://github.com/cactus-compute/cactus",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cactus-compute/cactus"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 5821,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:11:18Z"
+  },
+  {
+    "id": "658a215a-0e50-4e43-8200-c82f41389650",
+    "entity_type": "robots",
+    "name": "PetoiCamp/OpenCat-Quadruped-Robot",
+    "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
+    "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 5185,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T08:55:50Z"
+  },
+  {
+    "id": "8bdbd413-cce0-423d-9b3a-5e427252d09e",
+    "entity_type": "robots",
+    "name": "Adam-CAD/CADAM",
+    "description": "CADAM is the open source text-to-CAD web application",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Adam-CAD/CADAM"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 4997,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T07:37:56Z"
+  },
+  {
+    "id": "23bf4598-f67c-4e7a-8b5b-cdc383a11142",
+    "entity_type": "robots",
+    "name": "cyberbotics/webots",
+    "description": "Webots Robot Simulator",
+    "url": "https://github.com/cyberbotics/webots",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cyberbotics/webots"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 4561,
+    "primary_language": "C++",
+    "last_updated": "2026-08-18T02:31:28Z"
+  },
+  {
+    "id": "d4c551e7-fac2-4927-b17e-de1abed227ee",
+    "entity_type": "robots",
+    "name": "BehaviorTree/BehaviorTree.CPP",
+    "description": "Behavior Trees Library in C++. Batteries included.",
+    "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/BehaviorTree/BehaviorTree.CPP"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 4161,
+    "primary_language": "C++",
+    "last_updated": "2026-08-17T12:18:07Z"
+  },
+  {
+    "id": "7c8fb819-e614-45be-8fe0-1a0a1d11105c",
+    "entity_type": "robots",
+    "name": "ai-robots-txt/ai.robots.txt",
+    "description": "A list of AI agents and robots to block.",
+    "url": "https://github.com/ai-robots-txt/ai.robots.txt",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ai-robots-txt/ai.robots.txt"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 4061,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T07:25:23Z"
+  },
+  {
+    "id": "67cfe5e4-f477-4005-99e8-b91101b6b663",
+    "entity_type": "robots",
+    "name": "isaac-sim/IsaacSim",
+    "description": "NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.",
+    "url": "https://github.com/isaac-sim/IsaacSim",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/isaac-sim/IsaacSim"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 3906,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:46:17Z"
+  },
+  {
+    "id": "d5745a62-94cd-4ab7-95c4-4be6326bfa68",
+    "entity_type": "robots",
+    "name": "dora-rs/dora",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/dora-rs/dora"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 3881,
+    "primary_language": "Rust",
+    "last_updated": "2026-08-18T06:32:45Z"
+  },
+  {
+    "id": "45983c8d-96e5-45fb-a0c8-e9e3bd113560",
+    "entity_type": "robots",
+    "name": "facebookresearch/habitat-sim",
+    "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
+    "url": "https://github.com/facebookresearch/habitat-sim",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/facebookresearch/habitat-sim"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 3793,
+    "primary_language": "C++",
+    "last_updated": "2026-08-17T08:07:42Z"
+  },
+  {
+    "id": "65239910-3c0a-4d1f-bd26-bfcf8215531b",
+    "entity_type": "robots",
+    "name": "askrella/whatsapp-chatgpt",
+    "description": "ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/askrella/whatsapp-chatgpt"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 3778,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T02:02:49Z"
+  },
+  {
+    "id": "1833f40b-08a8-417d-b68f-3ae36b0cfdce",
+    "entity_type": "robots",
+    "name": "facebookresearch/map-anything",
+    "description": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+    "url": "https://github.com/facebookresearch/map-anything",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/facebookresearch/map-anything"
+    },
+    "ingested_at": "2026-08-18T08:55:29.137640+00:00",
+    "stars": 3656,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T06:39:12Z"
+  },
+  {
+    "id": "a36364f3-2564-431a-a378-bd7ece23c7fc",
+    "entity_type": "robots",
+    "name": "pytorch/rl",
+    "description": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.",
+    "url": "https://github.com/pytorch/rl",
+    "categories": [
+      "Robots"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/pytorch/rl"
+    },
+    "ingested_at": "2026-08-18T08:55:29.138801+00:00",
+    "stars": 3524,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:50:53Z"
+  },
+  {
+    "id": "bcdb98d2-b6db-4bd4-9f4f-38b584351368",
+    "entity_type": "mcp",
+    "name": "langchain4j/langchain4j",
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+    "url": "https://github.com/langchain4j/langchain4j",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain4j/langchain4j"
+    },
+    "ingested_at": "2026-08-18T08:55:31.191647+00:00",
+    "stars": 12893,
+    "primary_language": "Java",
+    "last_updated": "2026-08-18T08:21:29Z"
+  },
+  {
+    "id": "da171a78-036c-476b-a25a-35ad1f868982",
+    "entity_type": "mcp",
+    "name": "holaboss-ai/holaOS",
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/holaboss-ai/holaOS"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 9590,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T08:54:47Z"
+  },
+  {
+    "id": "8dbdf65a-80f7-4afa-8e27-5c0c70cea109",
+    "entity_type": "mcp",
+    "name": "mark3labs/mcp-go",
+    "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "url": "https://github.com/mark3labs/mcp-go",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mark3labs/mcp-go"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 9008,
+    "primary_language": "Go",
+    "last_updated": "2026-08-18T05:41:57Z"
+  },
+  {
+    "id": "14766421-3157-43d6-a262-24c30934cfc4",
+    "entity_type": "mcp",
+    "name": "Klavis-AI/klavis",
+    "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+    "url": "https://github.com/Klavis-AI/klavis",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Klavis-AI/klavis"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 5790,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T19:38:35Z"
+  },
+  {
+    "id": "0c2cdd18-2da3-4376-9147-d732d35bdc44",
+    "entity_type": "mcp",
+    "name": "aipotheosis-labs/aci",
+    "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+    "url": "https://github.com/aipotheosis-labs/aci",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/aipotheosis-labs/aci"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 4879,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:20:27Z"
+  },
+  {
+    "id": "90eb51b3-eb68-4968-9c13-d0c43397e5fc",
+    "entity_type": "mcp",
+    "name": "53AI/53AIHub",
+    "description": "53AI Hub is an open-source AI portal and knowledge base for managing enterprise knowledge, AI agents, prompts, and AI tools, seamlessly integrating with Coze, Dify, FastGPT, RAGFlow. 一个AI知识库与Agent门户",
+    "url": "https://github.com/53AI/53AIHub",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/53AI/53AIHub"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 4629,
+    "primary_language": "Go",
+    "last_updated": "2026-08-17T10:00:51Z"
+  },
+  {
+    "id": "7871d456-4d26-4276-afa4-891fa1784e33",
+    "entity_type": "mcp",
+    "name": "microsoft/mcp",
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "url": "https://github.com/microsoft/mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 3579,
+    "primary_language": "C#",
+    "last_updated": "2026-08-17T23:58:09Z"
+  },
+  {
+    "id": "4fe81163-dd1d-4fda-8889-477eb69e3dd0",
+    "entity_type": "mcp",
+    "name": "bethington/ghidra-mcp",
+    "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
+    "url": "https://github.com/bethington/ghidra-mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/bethington/ghidra-mcp"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 3339,
+    "primary_language": "Java",
+    "last_updated": "2026-08-18T06:51:16Z"
+  },
+  {
+    "id": "cf8d0420-cc2e-435e-b081-52ab37ffdf4c",
+    "entity_type": "mcp",
+    "name": "superglue-ai/superglue",
+    "description": "superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.",
+    "url": "https://github.com/superglue-ai/superglue",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/superglue-ai/superglue"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 2044,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-16T05:36:32Z"
+  },
+  {
+    "id": "3c85c419-c62d-478c-9163-c4c7a9820d4c",
+    "entity_type": "mcp",
+    "name": "OpenCoworkAI/open-cowork",
+    "description": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
+    "url": "https://github.com/OpenCoworkAI/open-cowork",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/OpenCoworkAI/open-cowork"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 2040,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T05:14:22Z"
+  },
+  {
+    "id": "ec0fe344-06d9-4269-92d2-b8f2cb40a111",
+    "entity_type": "mcp",
+    "name": "RTGS2017/NagaAgent",
+    "description": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+    "url": "https://github.com/RTGS2017/NagaAgent",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/RTGS2017/NagaAgent"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 1545,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T07:38:47Z"
+  },
+  {
+    "id": "e6c11372-807e-4af5-8dad-e277b0249220",
+    "entity_type": "mcp",
+    "name": "AI-QL/tuui",
+    "description": "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.",
+    "url": "https://github.com/AI-QL/tuui",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/AI-QL/tuui"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 1152,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-11T16:56:15Z"
+  },
+  {
+    "id": "4ddddc53-3672-43af-809a-13550d6b8b2d",
+    "entity_type": "mcp",
+    "name": "affaan-m/agentshield",
+    "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
+    "url": "https://github.com/affaan-m/agentshield",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/affaan-m/agentshield"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 1073,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-18T07:09:09Z"
+  },
+  {
+    "id": "cedf9c64-dc70-4729-b18e-523bc01b9629",
+    "entity_type": "mcp",
+    "name": "Anil-matcha/awesome-openclaw",
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+    "url": "https://github.com/Anil-matcha/awesome-openclaw",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Anil-matcha/awesome-openclaw"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 989,
+    "primary_language": null,
+    "last_updated": "2026-08-17T23:25:16Z"
+  },
+  {
+    "id": "3704cf64-38f0-4360-a09c-62c8438316d2",
+    "entity_type": "mcp",
+    "name": "agentic-community/mcp-gateway-registry",
+    "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+    "url": "https://github.com/agentic-community/mcp-gateway-registry",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/agentic-community/mcp-gateway-registry"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 865,
+    "primary_language": "Python",
+    "last_updated": "2026-08-18T08:21:05Z"
+  },
+  {
+    "id": "0b601ca7-0ce3-45ae-8727-6422a4ed1ec3",
+    "entity_type": "mcp",
+    "name": "jacksteamdev/obsidian-mcp-tools",
+    "description": "Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client.",
+    "url": "https://github.com/jacksteamdev/obsidian-mcp-tools",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jacksteamdev/obsidian-mcp-tools"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 831,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-08T23:48:13Z"
+  },
+  {
+    "id": "69f6ff0d-99c1-4ac1-9ab5-43cc233c14fb",
+    "entity_type": "mcp",
+    "name": "braincrew-lab/langgraph-mcp-agents",
+    "description": "LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools.",
+    "url": "https://github.com/braincrew-lab/langgraph-mcp-agents",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/braincrew-lab/langgraph-mcp-agents"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 717,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T11:11:05Z"
+  },
+  {
+    "id": "6817f0f6-e212-47f7-8c86-da737fe82fd2",
+    "entity_type": "mcp",
+    "name": "cohnen/mcp-google-ads",
+    "description": "An MCP tool that connects Google Ads with Claude AI/Cursor and others, allowing you to analyze your advertising data through natural language conversations. This integration gives you access to campaign information, performance metrics, keyword analytics, and ad management—all through simple chat with Claude, Cursor or Windsurf.",
+    "url": "https://github.com/cohnen/mcp-google-ads",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cohnen/mcp-google-ads"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 686,
+    "primary_language": "Python",
+    "last_updated": "2026-08-17T03:52:54Z"
+  },
+  {
+    "id": "ff170920-49f1-4fd6-8b60-1e8d174b02fa",
+    "entity_type": "mcp",
+    "name": "Bessouat40/RAGLight",
+    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.",
+    "url": "https://github.com/Bessouat40/RAGLight",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Bessouat40/RAGLight"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 670,
+    "primary_language": "Python",
+    "last_updated": "2026-07-28T01:50:17Z"
+  },
+  {
+    "id": "bc94c949-ed29-4646-ba0e-d98f74d9ae67",
+    "entity_type": "mcp",
+    "name": "cyproxio/mcp-for-security",
+    "description": "MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows.",
+    "url": "https://github.com/cyproxio/mcp-for-security",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cyproxio/mcp-for-security"
+    },
+    "ingested_at": "2026-08-18T08:55:31.192666+00:00",
+    "stars": 630,
+    "primary_language": "TypeScript",
+    "last_updated": "2026-08-17T15:30:31Z"
+  }
+]

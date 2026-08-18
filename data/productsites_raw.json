@@ -1,0 +1,81 @@
+[
+  {
+    "id": "3fd819be-10b1-4823-a5e2-5cbbf941103c",
+    "entity_type": "companies",
+    "name": "Home \\ Anthropic",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "url": "https://www.anthropic.com",
+    "categories": [
+      "Companies",
+      "Tools"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://www.anthropic.com"
+    },
+    "ingested_at": "2026-08-18T08:28:30.478163+00:00"
+  },
+  {
+    "id": "518f9624-7e8d-4c86-8f04-0310e674a0ca",
+    "entity_type": "tools",
+    "name": "Replit – Build apps and sites with AI - Replit",
+    "description": "Build and deploy software collaboratively with the power of AI without spending a second on setup.",
+    "url": "https://replit.com",
+    "categories": [
+      "Tools"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://replit.com"
+    },
+    "ingested_at": "2026-08-18T08:28:30.831654+00:00"
+  },
+  {
+    "id": "9cb42531-c4ee-4102-a060-e8c4d5d21123",
+    "entity_type": "tools",
+    "name": "The AI workspace that works for you. | Notion",
+    "description": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+    "url": "https://www.notion.so",
+    "categories": [
+      "Tools",
+      "Personal"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://www.notion.so"
+    },
+    "ingested_at": "2026-08-18T08:28:31.963763+00:00"
+  },
+  {
+    "id": "d752d146-e634-4ae3-80ad-8ee58c9c6c3b",
+    "entity_type": "tools",
+    "name": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+    "description": "Create lifelike speech with our AI voice generator and voice agents platform. Access 5,000+ voices in 70+ languages with secure APIs and SDKs.",
+    "url": "https://elevenlabs.io",
+    "categories": [
+      "Tools",
+      "Creative"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://elevenlabs.io"
+    },
+    "ingested_at": "2026-08-18T08:28:32.273353+00:00"
+  },
+  {
+    "id": "e4c88bc2-4cbc-4e0c-a0f5-7c9023205514",
+    "entity_type": "tools",
+    "name": "Runway | Building Real-World Intelligence",
+    "description": "Runway is building foundational Real-World Intelligence that can understand, simulate and act in the world. We offer products and services built on-top of this intelligence to empower individuals and organizations to do more in the world.",
+    "url": "https://www.runwayml.com",
+    "categories": [
+      "Tools",
+      "Creative"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://www.runwayml.com"
+    },
+    "ingested_at": "2026-08-18T08:28:33.126001+00:00"
+  }
+]

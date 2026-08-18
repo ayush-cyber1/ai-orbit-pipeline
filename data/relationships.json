@@ -1,0 +1,1554 @@
+[
+  {
+    "id": "ef590989-bd35-42b2-83cc-bb822eefbc72",
+    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "from_name": "modelcontextprotocol/python-sdk",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "f1acedd3-162d-46c4-a87a-de0fb692e159",
+    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "from_name": "modelcontextprotocol/python-sdk",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "b8082a24-44c0-47cd-9919-cb2d15bfc666",
+    "from_id": "3a016511-41ba-4247-a534-fc15d4273991",
+    "from_name": "modelcontextprotocol/python-sdk",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "1a19f598-d4d8-415e-9c0a-cc82f39a0fae",
+    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "from_name": "modelcontextprotocol/typescript-sdk",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "4bef9d50-231f-400e-ba3f-402306ff5ce3",
+    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "from_name": "modelcontextprotocol/typescript-sdk",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "0efac347-5025-4d65-bf51-11eb5999da9d",
+    "from_id": "b5823c83-9670-4aaa-bcef-4738db037b5d",
+    "from_name": "modelcontextprotocol/typescript-sdk",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "269c6abb-ba9f-452d-a839-d571ba7b708c",
+    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "from_name": "hangwin/mcp-chrome",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "a7f61114-e9a3-4d43-bee3-cb82c976deeb",
+    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "from_name": "hangwin/mcp-chrome",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "1658cf14-f577-4297-8996-0ccbd2b98448",
+    "from_id": "5cc68863-2f90-4a0f-9b31-4d9f3a135627",
+    "from_name": "hangwin/mcp-chrome",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "bddb19c8-280c-4edb-b390-e70f1738303b",
+    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "from_name": "modelcontextprotocol/registry",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "5a3dd9ce-60b3-4bcd-997b-d95c1f870dd6",
+    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "from_name": "modelcontextprotocol/registry",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "a39f1ab4-8e35-473e-9b40-cca086c2c7be",
+    "from_id": "1f417492-ccde-4f32-912b-3ad6b89ac5ac",
+    "from_name": "modelcontextprotocol/registry",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "1a7a8ef0-0b0a-4305-b455-623502641212",
+    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "from_name": "getsentry/XcodeBuildMCP",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "cf313fed-453e-4471-bd44-12752ad12a9c",
+    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "from_name": "getsentry/XcodeBuildMCP",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "2aeb44e4-3480-4d64-bc9a-f088a15f8d9c",
+    "from_id": "64072c28-1ac5-48fd-a909-acf9d59e0af4",
+    "from_name": "getsentry/XcodeBuildMCP",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "0941a1e3-3ff6-4738-83e3-3ebf91896d7a",
+    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "from_name": "mobile-next/mobile-mcp",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "3a38eba4-af11-49bd-846a-96bfdbc34bdf",
+    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "from_name": "mobile-next/mobile-mcp",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "e1da866a-6c82-4178-a827-eae67bc8421a",
+    "from_id": "04215da1-f42a-4768-bd97-81350b5e1eae",
+    "from_name": "mobile-next/mobile-mcp",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "a577696c-cb43-443f-9552-8675e7c2c68f",
+    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "from_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "08e65f8a-a3da-4c7e-b45b-cb79e658dcfe",
+    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "from_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "25c07c7f-e6a8-42a4-8454-6fd208038a33",
+    "from_id": "4eec302a-3886-419a-a3e1-09523d97ad14",
+    "from_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "4b55ab5c-40ed-409c-8cb5-14a733f35ff0",
+    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "from_name": "appcypher/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "8585d0d2-8b2a-4ab5-8fda-c1aa27b731e2",
+    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "from_name": "appcypher/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "c62a6f44-80d3-4f11-91fe-91b998686c78",
+    "from_id": "056957c2-aaed-47ec-bc2e-d45243159805",
+    "from_name": "appcypher/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "77d56553-8956-47de-8248-08284b153ccb",
+    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "from_name": "executeautomation/mcp-playwright",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "05ebf5aa-7d89-4a9e-b8e7-e90eee3412e7",
+    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "from_name": "executeautomation/mcp-playwright",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "75535cdf-2225-42aa-8d2e-cc43a9dba200",
+    "from_id": "85a2871e-6db9-49ec-8edf-bacd93c37874",
+    "from_name": "executeautomation/mcp-playwright",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "b67a086c-7a07-43ee-82fa-dfaf3e4ccd6c",
+    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "from_name": "nanbingxyz/5ire",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "3e117f31-a0f3-48d0-ad39-a4cd654b16c2",
+    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "from_name": "nanbingxyz/5ire",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "496aa378-b411-49d4-9f05-f479a6998920",
+    "from_id": "d05e9f2e-228f-4a65-bbf1-911cb560345b",
+    "from_name": "nanbingxyz/5ire",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "1af8e6e6-8aff-4a59-a8bb-e767f74ab0e5",
+    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "from_name": "modelcontextprotocol/csharp-sdk",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "3e4b59ca-cbf4-4aee-b89a-12ea4ca39a9f",
+    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "from_name": "modelcontextprotocol/csharp-sdk",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "5d488691-c5b7-4d3e-8daf-4474c75d5d39",
+    "from_id": "4bd95f38-cee9-4eb6-916f-670b54e77d37",
+    "from_name": "modelcontextprotocol/csharp-sdk",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "588ab4b8-0204-4238-9839-23757f71f4db",
+    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "from_name": "Pimzino/spec-workflow-mcp",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "7de3f6f6-1e62-4ef2-be06-912568910b5f",
+    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "from_name": "Pimzino/spec-workflow-mcp",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "5ef88061-737e-4bb7-8b3a-e9310b8f1e80",
+    "from_id": "5347037d-b303-4eb9-9c20-e396e7a3e067",
+    "from_name": "Pimzino/spec-workflow-mcp",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "9e964a99-42fb-4b2b-b1b4-13e60e3218fe",
+    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "from_name": "wong2/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "76da0635-b5f1-450a-83a1-3af1de87795a",
+    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "from_name": "wong2/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "f8940754-9e36-4237-bc38-f86e0cdf860c",
+    "from_id": "ef282a01-e3b9-45bc-9c55-cdb4feb30a35",
+    "from_name": "wong2/awesome-mcp-servers",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "01406ebf-1558-4b22-bd82-e84c7144e1b1",
+    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "from_name": "haris-musa/excel-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "6a4138dd-a8da-4e43-b758-9974a9468023",
+    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "from_name": "haris-musa/excel-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "18b72de0-a447-4ec5-8d1d-ed2cac296a9c",
+    "from_id": "2225f51d-1ed4-4412-8fff-9d1d03ef2325",
+    "from_name": "haris-musa/excel-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "113e183a-1324-44a3-89c2-faadc6486464",
+    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "from_name": "opensumi/core",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "f7a07967-6609-4d5d-8451-9dc718d050d9",
+    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "from_name": "opensumi/core",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "71be4867-a790-4640-81df-77212598be8f",
+    "from_id": "2c1e0bcd-72e1-4998-b17c-5e89022d46ce",
+    "from_name": "opensumi/core",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "1a670bb5-5c41-491e-a57f-2bebb1d43d12",
+    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "from_name": "microsoft/mcp",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "3114c999-066f-440f-97b1-24866ea476f5",
+    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "from_name": "microsoft/mcp",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "778dbbe5-ea71-429b-9402-4265d9e6b7eb",
+    "from_id": "f266e398-1b29-42fa-825c-27cbc473471f",
+    "from_name": "microsoft/mcp",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "9fb037be-1686-451c-ba0d-d4b5c877ae3d",
+    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "from_name": "blazickjp/arxiv-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "51b2acde-3d6e-4150-9866-956f339725be",
+    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "from_name": "blazickjp/arxiv-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "330a742c-4815-4d44-82e2-78233e1b0e33",
+    "from_id": "e52d01fa-50ce-4929-94ed-202c1750196b",
+    "from_name": "blazickjp/arxiv-mcp-server",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "2088f374-2b6f-4006-92ae-3779ec96882d",
+    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "from_name": "zcaceres/markdownify-mcp",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "418ddc4a-e516-41ad-810a-46c4f35db179",
+    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "from_name": "zcaceres/markdownify-mcp",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "9db8c0a6-bc39-4c31-9839-652e58b57118",
+    "from_id": "ce04a065-7706-485b-bb88-2d2b7e2e99c5",
+    "from_name": "zcaceres/markdownify-mcp",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "fa2b6b41-37cd-439d-9e64-1b85b2a8089f",
+    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "from_name": "langchain4j/langchain4j",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "7a478761-8a26-4f69-9c58-1aef0bc2c9c2",
+    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "from_name": "langchain4j/langchain4j",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "71a8cac6-6d97-479e-bad5-0015247af7bf",
+    "from_id": "4e37d93d-8f6f-43d0-958b-e9782ec79e29",
+    "from_name": "langchain4j/langchain4j",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "67bd8e56-9ff8-47fc-8e39-94ba4b43a7a7",
+    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "from_name": "holaboss-ai/holaOS",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "310608d9-a4b6-4b2d-bb4b-88c62ae02c70",
+    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "from_name": "holaboss-ai/holaOS",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "353904dd-45fc-4cf7-ac1b-62528c2064a5",
+    "from_id": "89887459-2fa7-4b7d-b608-e6b0d2f9fe3c",
+    "from_name": "holaboss-ai/holaOS",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "0162eb57-05d0-49f0-894a-e133377d0dc6",
+    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "from_name": "mark3labs/mcp-go",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "d008da29-9eb3-4493-b772-eee8e3a4ed3a",
+    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "from_name": "mark3labs/mcp-go",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "450e9e10-7154-4cae-ab71-59d530aeaf57",
+    "from_id": "d7c2d4ce-dd76-47c3-a8fc-0832efcd4515",
+    "from_name": "mark3labs/mcp-go",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "e27c123d-28c5-4c44-9226-fd2b4feaf4d5",
+    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "from_name": "Klavis-AI/klavis",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "c4006fb0-4baf-4487-8d0d-604faf016a06",
+    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "from_name": "Klavis-AI/klavis",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "db7cacd0-3ced-4d21-9f10-082f621df346",
+    "from_id": "7c8238a3-032d-421b-8fc5-e976e178c556",
+    "from_name": "Klavis-AI/klavis",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "9613df32-0c05-4a6e-b1f5-2426b604c6da",
+    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "from_name": "aipotheosis-labs/aci",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "d996e188-93f4-4681-a7bf-66982fef7f24",
+    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "from_name": "aipotheosis-labs/aci",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "91781d2f-c9e6-4aa4-a65b-30cf65fb83cb",
+    "from_id": "0e9169e5-e061-464b-a8cb-5ae3229683ef",
+    "from_name": "aipotheosis-labs/aci",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "ae4ceb78-dda8-4b38-b896-8c0718da563e",
+    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "from_name": "53AI/53AIHub",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "0c5a3d74-477b-4012-858a-bde6af394ca2",
+    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "from_name": "53AI/53AIHub",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "de54b8ef-9d0e-45db-b119-4b8bee3d276f",
+    "from_id": "935f176d-3363-421a-b407-c17a702b63fe",
+    "from_name": "53AI/53AIHub",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "72394dee-650c-45bd-84d2-9114cac946d6",
+    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "from_name": "bethington/ghidra-mcp",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "c0f9d035-81e6-47a4-ad7e-d2cf701d7712",
+    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "from_name": "bethington/ghidra-mcp",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "38908751-39f0-4693-8476-31acb2a4ce47",
+    "from_id": "13c726e1-58b1-4c74-b255-7e96b2660d15",
+    "from_name": "bethington/ghidra-mcp",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "19370047-7703-4965-820f-a4e9c0d9ba6c",
+    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "from_name": "superglue-ai/superglue",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "5b0f7dac-1aa4-44d3-9d26-e60a4003dd37",
+    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "from_name": "superglue-ai/superglue",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "23f389e2-e546-45c7-9c4a-b3c37f43026e",
+    "from_id": "839c258f-2807-4fd6-9b94-13b0683609ed",
+    "from_name": "superglue-ai/superglue",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "cecdab9d-2dd2-4ebc-aacd-feb095726710",
+    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "from_name": "OpenCoworkAI/open-cowork",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "6f8175c2-dc31-4bf7-a4e0-db01214502e5",
+    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "from_name": "OpenCoworkAI/open-cowork",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "01bcde59-5ad8-4b03-b4b6-2f3a64ae3cea",
+    "from_id": "94dcbcb8-0e45-4645-ad0c-1fdc747f2a39",
+    "from_name": "OpenCoworkAI/open-cowork",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "024c013f-0945-47b9-9f12-6756264fbc56",
+    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "from_name": "RTGS2017/NagaAgent",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "b0e3fd58-501d-4c93-b7f7-561b6bd0ce47",
+    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "from_name": "RTGS2017/NagaAgent",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "c5071a1e-a0d0-486f-820c-9e58d704e909",
+    "from_id": "59d821bc-136e-4d01-a8a9-605690e14734",
+    "from_name": "RTGS2017/NagaAgent",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "b4069a1f-c9b1-4d82-9950-5be08bb019f1",
+    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "from_name": "AI-QL/tuui",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "60bd8307-1606-4d59-b59c-0e182b4b0727",
+    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "from_name": "AI-QL/tuui",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "e628456b-e536-4ee4-893f-2ba20e668340",
+    "from_id": "a05aab54-a6fd-43cf-a080-f241ea702be4",
+    "from_name": "AI-QL/tuui",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "781f739a-f6fe-421b-ac75-ffbebdd8371e",
+    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "from_name": "affaan-m/agentshield",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "b1bb574c-3b26-4f1d-8ce4-ff4d148238cc",
+    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "from_name": "affaan-m/agentshield",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "38861dd3-c0d4-46ec-ba16-3de66128b219",
+    "from_id": "56b1f30a-a989-4dd7-9b0a-c6efbd46b3a1",
+    "from_name": "affaan-m/agentshield",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "c19401c2-c2ba-4a90-86c9-03292b534559",
+    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "from_name": "Anil-matcha/awesome-openclaw",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "4bbf3761-05de-48ef-a3aa-ca249a28afe8",
+    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "from_name": "Anil-matcha/awesome-openclaw",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "2e48799f-9131-456e-9feb-eb39a50dceed",
+    "from_id": "af921771-7f79-4932-9680-b7f5589df83c",
+    "from_name": "Anil-matcha/awesome-openclaw",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "102849e1-d66c-4d87-9fe4-f871fbad2c68",
+    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "from_name": "agentic-community/mcp-gateway-registry",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "4ffc8d0b-36b1-4bc1-9060-301f2d7bb13b",
+    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "from_name": "agentic-community/mcp-gateway-registry",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "8441efdd-eb34-4723-b85b-e86bdfb7be76",
+    "from_id": "d487c2ef-7d37-451a-9ec7-0db226efa9a3",
+    "from_name": "agentic-community/mcp-gateway-registry",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "83f39791-052b-424e-9ce2-c7bb4a24357f",
+    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "from_name": "jacksteamdev/obsidian-mcp-tools",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "884602a6-1366-462e-9185-3254d8efe849",
+    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "from_name": "jacksteamdev/obsidian-mcp-tools",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "5e8f1bc9-96bf-4ab0-b706-123a6c254a6f",
+    "from_id": "b924e237-cb52-46d5-9b1d-65692cce514d",
+    "from_name": "jacksteamdev/obsidian-mcp-tools",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "25daaf32-0fd2-4aeb-8631-f9a432bace0a",
+    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "from_name": "braincrew-lab/langgraph-mcp-agents",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "f3daba7e-c238-4b73-aea7-12b43f52ad23",
+    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "from_name": "braincrew-lab/langgraph-mcp-agents",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "34233a47-46e9-462a-a36a-938fec78c165",
+    "from_id": "bfb5c934-5bfc-41bc-ac4a-5cdec8ee1ed5",
+    "from_name": "braincrew-lab/langgraph-mcp-agents",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "eb904413-0776-4310-9b30-7872575c1d06",
+    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "from_name": "cohnen/mcp-google-ads",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "cc56e82c-e632-4fd9-8d1e-c9c2afa9a7a2",
+    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "from_name": "cohnen/mcp-google-ads",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "bbb4139c-c593-44de-a83d-5d4ba6b1932f",
+    "from_id": "eea94467-229a-4772-ba86-92fc788bcdc6",
+    "from_name": "cohnen/mcp-google-ads",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "88619c63-1345-4769-9d28-8e8c4968d929",
+    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "from_name": "Bessouat40/RAGLight",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "ba58536a-28c8-48e4-99ed-3bf41b7e5ee1",
+    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "from_name": "Bessouat40/RAGLight",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "1ce0c3d3-9d54-4f0c-a2ed-9ca6c9acf980",
+    "from_id": "f25bd1c2-ab64-489a-acf9-55e3b8fa8c70",
+    "from_name": "Bessouat40/RAGLight",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "018ca6fe-1c24-4eea-96cc-d62dd8f0cff2",
+    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "from_name": "cyproxio/mcp-for-security",
+    "relation": "integrates_with",
+    "to_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "to_name": "Home"
+  },
+  {
+    "id": "aae9acef-8e9e-47c7-a1b5-2bb38d2902b9",
+    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "from_name": "cyproxio/mcp-for-security",
+    "relation": "integrates_with",
+    "to_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "to_name": "Search"
+  },
+  {
+    "id": "d2f1724c-0b1f-4e5a-92a6-f4307cb921a0",
+    "from_id": "7f0f4276-f8a8-4e46-a4c8-fd72854f0ba0",
+    "from_name": "cyproxio/mcp-for-security",
+    "relation": "integrates_with",
+    "to_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "to_name": "Deals"
+  },
+  {
+    "id": "f5c7080e-39f0-430c-8b30-551fada3ec8e",
+    "from_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "from_name": "Home",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "adf3fb44-4b28-4c6d-bb40-31e1be89f3c3",
+    "from_id": "21db06f9-4adb-4102-9347-eef1e8c3d24e",
+    "from_name": "Home",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "7015b795-54c3-4c2e-9350-7ee6692918ea",
+    "from_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "from_name": "Search",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "e87f364c-ba83-4bdb-bbf8-1256171a3fae",
+    "from_id": "f975ddc1-56ee-4dbf-82c5-a5d46b37d908",
+    "from_name": "Search",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "b6553d51-ee0c-492d-900b-0cd259535e2c",
+    "from_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "from_name": "Deals",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "25451352-47c4-438f-8257-b7e832f71171",
+    "from_id": "65073902-2bb6-4e88-8737-9fb70fc004c7",
+    "from_name": "Deals",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "fa3483ae-28ed-4415-92c6-632b174dcad7",
+    "from_id": "2ee6c81e-2087-4cd8-baeb-b9197e0c5abf",
+    "from_name": "Leaderboard",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "3baca85d-d2bf-418c-9225-a0b21869a60f",
+    "from_id": "2ee6c81e-2087-4cd8-baeb-b9197e0c5abf",
+    "from_name": "Leaderboard",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "feb2917d-89d6-41c0-a6a1-66350d2af89d",
+    "from_id": "0c440fa9-503e-47e1-a9f4-a407f9a0afe8",
+    "from_name": "Tasks",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "7105e76d-62b1-4a96-bc29-5462842f6acc",
+    "from_id": "0c440fa9-503e-47e1-a9f4-a407f9a0afe8",
+    "from_name": "Tasks",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "8685e9c3-2df0-4431-928c-0ed3a217a7cb",
+    "from_id": "97337e5c-6b2c-448c-bda0-70eaff46d8c9",
+    "from_name": "Mini tools",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "2964f6ff-6c54-4c17-b334-7c7a57c6ff96",
+    "from_id": "97337e5c-6b2c-448c-bda0-70eaff46d8c9",
+    "from_name": "Mini tools",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "3644e533-ddb0-4e19-8666-689adc75e790",
+    "from_id": "06bd21d2-36d5-4942-aada-365a7d9a2ee9",
+    "from_name": "Characters",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "caf72283-4ed6-4da5-b27c-5a359117b0a8",
+    "from_id": "06bd21d2-36d5-4942-aada-365a7d9a2ee9",
+    "from_name": "Characters",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "764857bf-a2f7-46ae-8dab-f723697e3cdf",
+    "from_id": "0be8acbb-82c8-4b4a-ad13-f645a86ecacf",
+    "from_name": "Map",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "50dfd501-6489-4939-8cb9-8bc820e2a0f5",
+    "from_id": "0be8acbb-82c8-4b4a-ad13-f645a86ecacf",
+    "from_name": "Map",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "7f3fb4b9-4a01-4380-aeeb-3e41bdd4359a",
+    "from_id": "74adb9a4-877a-4346-bcd7-bf9c65de6b82",
+    "from_name": "Prompts",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "20c3f64f-2c86-485d-8fea-98a24a970d05",
+    "from_id": "74adb9a4-877a-4346-bcd7-bf9c65de6b82",
+    "from_name": "Prompts",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "aae65476-490e-43b6-a736-cc058b74e759",
+    "from_id": "6af78009-a6e9-481d-9a98-c074670babed",
+    "from_name": "Launch / Advertise",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "06ae2a5d-f8d1-476d-9d15-e8627b025b26",
+    "from_id": "6af78009-a6e9-481d-9a98-c074670babed",
+    "from_name": "Launch / Advertise",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "4065fac4-06f4-4247-948f-7e3f9db5f26d",
+    "from_id": "f12e439e-e7d3-4d01-891c-adb2c43c325b",
+    "from_name": "Newsletter",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "aa0f2f06-c8bd-436b-bd03-0919011f2323",
+    "from_id": "f12e439e-e7d3-4d01-891c-adb2c43c325b",
+    "from_name": "Newsletter",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "69263be4-f8eb-4018-994e-1983634ca0f5",
+    "from_id": "30aeffcc-a0e6-4c67-bbc0-b3edfd892b29",
+    "from_name": "Merchandise",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "b443541a-1705-4689-96ec-0aa1099069ca",
+    "from_id": "30aeffcc-a0e6-4c67-bbc0-b3edfd892b29",
+    "from_name": "Merchandise",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "6835b9dc-d841-4d5d-9dd9-ed376f800036",
+    "from_id": "930006cc-bd4e-4814-ba66-d11bff64a522",
+    "from_name": "Contact us",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "f07775cf-bd64-4ba7-ac7b-9c6000b34a37",
+    "from_id": "930006cc-bd4e-4814-ba66-d11bff64a522",
+    "from_name": "Contact us",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "ba03b754-91f8-449a-81c7-7075c33adc30",
+    "from_id": "3d60c6ab-281a-42fb-b638-11c5944e0779",
+    "from_name": "Generate images",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "6839b36f-e520-4e5a-a9ab-ca58cfb1275b",
+    "from_id": "3d60c6ab-281a-42fb-b638-11c5944e0779",
+    "from_name": "Generate images",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "f9e4e8c8-2e0e-4683-88e9-4bec8f834080",
+    "from_id": "78e2a3c9-db29-4773-970a-a00b383b0e19",
+    "from_name": "Create AI Tools",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "29725460-8d3e-4a49-88c6-d1de324137d8",
+    "from_id": "78e2a3c9-db29-4773-970a-a00b383b0e19",
+    "from_name": "Create AI Tools",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "54f9be58-27da-4e3f-a82d-b5933c316726",
+    "from_id": "9d8bb809-056c-4d47-b8a2-1d680b3a64b7",
+    "from_name": "YouTube",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "f651502e-c631-4cc7-a16c-4b47c5077c8c",
+    "from_id": "9d8bb809-056c-4d47-b8a2-1d680b3a64b7",
+    "from_name": "YouTube",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "2a063d9b-58fb-4fb8-86b4-081b9c28daa0",
+    "from_id": "3930dd08-5e68-4b8c-ba69-e346c178f04d",
+    "from_name": "School",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "e1c285d5-0201-4a95-9c4b-f0150af3fb0d",
+    "from_id": "3930dd08-5e68-4b8c-ba69-e346c178f04d",
+    "from_name": "School",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "1aae1696-a529-4efa-b568-90b2543ba64e",
+    "from_id": "cb69cfdc-0838-4025-b82a-0881fc679d2e",
+    "from_name": "Companionship",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "22e771da-c624-42c3-af5d-ac300e40e104",
+    "from_id": "cb69cfdc-0838-4025-b82a-0881fc679d2e",
+    "from_name": "Companionship",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "b83164e8-e71a-467b-8b8f-0bd423504f6b",
+    "from_id": "739780c5-81da-4c68-b996-bf9dbee5f06c",
+    "from_name": "SEO",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "0b5e2828-b470-4b63-a4e2-1526bcfb6342",
+    "from_id": "739780c5-81da-4c68-b996-bf9dbee5f06c",
+    "from_name": "SEO",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "fc55ae2f-17de-41a0-bbda-f2d52f0aa21b",
+    "from_id": "aec78a26-82b0-4979-b857-9a0765b1eb80",
+    "from_name": "Summaries",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "d7d012c4-08fd-46dc-96d3-a803c89bd065",
+    "from_id": "aec78a26-82b0-4979-b857-9a0765b1eb80",
+    "from_name": "Summaries",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "aefd5574-1291-4911-a48d-b61530c7d237",
+    "from_id": "4836d532-f605-47ed-b323-e744a08de1ab",
+    "from_name": "ChatGPT",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "09b81794-e13e-48ff-98bb-cff3ce860dd6",
+    "from_id": "4836d532-f605-47ed-b323-e744a08de1ab",
+    "from_name": "ChatGPT",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "b87e4e18-35de-4cea-ad14-87b0d2f8ed48",
+    "from_id": "8a434b41-d956-4553-aba9-e21c76b2d93f",
+    "from_name": "#ai chatbots",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "3ed59e16-1ad3-49b9-860a-19e2cf72020c",
+    "from_id": "8a434b41-d956-4553-aba9-e21c76b2d93f",
+    "from_name": "#ai chatbots",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "dbd9b826-89eb-4a02-b138-f232bee2ecf3",
+    "from_id": "1241aefc-2681-41a8-a740-9e7dcbe69654",
+    "from_name": "#research",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "a2e2371d-7463-4b3b-a5ed-d8611c19b4d6",
+    "from_id": "1241aefc-2681-41a8-a740-9e7dcbe69654",
+    "from_name": "#research",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "afea7e21-12fa-4acd-8215-ce629f1263d5",
+    "from_id": "629a5aa9-d06a-44dc-b729-77741a6820db",
+    "from_name": "#ai agents",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "e705420b-1fad-4d0c-b6f2-05dbbd79e593",
+    "from_id": "629a5aa9-d06a-44dc-b729-77741a6820db",
+    "from_name": "#ai agents",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "25c897fc-7b05-4bea-bf6b-4feef30157bd",
+    "from_id": "cdcbd408-0b8b-4d12-8c41-5f9e9c6eccfd",
+    "from_name": "Claude",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "35e57547-431d-4cb0-afc6-22678481c1e6",
+    "from_id": "cdcbd408-0b8b-4d12-8c41-5f9e9c6eccfd",
+    "from_name": "Claude",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "5f376e0a-1987-44ef-8a63-5329fc8f0db7",
+    "from_id": "2d8c9cfc-2e0a-403b-9577-707cc765640e",
+    "from_name": "#code assistant",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "a578e65a-b998-4157-aae9-3f925241d6c8",
+    "from_id": "2d8c9cfc-2e0a-403b-9577-707cc765640e",
+    "from_name": "#code assistant",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "d00f3f81-b2a4-4eed-9a42-dab6bfe5d53f",
+    "from_id": "5857da35-bb60-485d-8324-6cce1b4c014b",
+    "from_name": "HubSpot AEO Sensor",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "ade8d907-7fa2-46ec-bba7-685d2170f5ff",
+    "from_id": "5857da35-bb60-485d-8324-6cce1b4c014b",
+    "from_name": "HubSpot AEO Sensor",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "142b74fb-1df3-4688-9302-1dba5278fdbe",
+    "from_id": "6fceb87d-b348-4d0a-a978-c3b3fd49b289",
+    "from_name": "#marketing",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "bc082fdf-8ce5-450e-9b05-8a4e4e82a1d7",
+    "from_id": "6fceb87d-b348-4d0a-a978-c3b3fd49b289",
+    "from_name": "#marketing",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "71811712-5556-427b-b4b3-0136b1e406c6",
+    "from_id": "3060e925-b189-4ae2-8324-f0e191752b6f",
+    "from_name": "Perplexity",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "82737f88-c89f-44c4-8bc6-f619541bd4a5",
+    "from_id": "3060e925-b189-4ae2-8324-f0e191752b6f",
+    "from_name": "Perplexity",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "ffca4798-cc5e-4400-9e32-bb37b8da78a9",
+    "from_id": "9f1d6791-c63b-4669-b730-3259e86c7160",
+    "from_name": "#summarizer",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "08dd4af1-8783-4722-a065-52dd3d1b8c52",
+    "from_id": "9f1d6791-c63b-4669-b730-3259e86c7160",
+    "from_name": "#summarizer",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "dabe4f9f-8221-4268-adad-a5120e152a85",
+    "from_id": "aa253e13-ec1c-4fa2-94cb-b494613921ed",
+    "from_name": "Google Gemini",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "f4d38fc8-6b10-42f4-8d8f-248d4063f993",
+    "from_id": "aa253e13-ec1c-4fa2-94cb-b494613921ed",
+    "from_name": "Google Gemini",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "bef06dbe-e3fc-4dce-bb78-e67020533e0d",
+    "from_id": "0da4a255-e8f5-428d-8bc2-506f8fe2de52",
+    "from_name": "#writing generators",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "68225a3b-ac8c-4cdb-bc1e-28768549c929",
+    "from_id": "0da4a255-e8f5-428d-8bc2-506f8fe2de52",
+    "from_name": "#writing generators",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "e3b98dc8-c41d-4739-aea4-34c7e2dbe8f3",
+    "from_id": "0532df6f-396e-479c-a16d-ada62f437361",
+    "from_name": "Midjourney",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "7f1751cb-53b3-405f-966c-f4ca6765581f",
+    "from_id": "0532df6f-396e-479c-a16d-ada62f437361",
+    "from_name": "Midjourney",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "484c7ead-8c61-4ff0-ba78-0d2c6fa26817",
+    "from_id": "e9a25ee5-0973-4d5a-8fcb-a093a08fecc3",
+    "from_name": "#text to image",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "d5b2f2cf-3580-4442-ad83-de3e0dbd3f97",
+    "from_id": "e9a25ee5-0973-4d5a-8fcb-a093a08fecc3",
+    "from_name": "#text to image",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "79d25484-fc32-451b-b0af-5012ce36fce0",
+    "from_id": "22e082dd-c2ce-4af7-832e-ccfd19a32da9",
+    "from_name": "#image editing",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "7d47b7dd-56d9-4506-93b0-b09b986bc5c2",
+    "from_id": "22e082dd-c2ce-4af7-832e-ccfd19a32da9",
+    "from_name": "#image editing",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "963c65f0-d377-4ba1-92d9-aa56851c7cac",
+    "from_id": "cbfd55fb-f072-47ea-822b-e8688e4ddf4a",
+    "from_name": "#video generators",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "5d41aaca-7507-4a1b-96dd-c8d6ac2c168c",
+    "from_id": "cbfd55fb-f072-47ea-822b-e8688e4ddf4a",
+    "from_name": "#video generators",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "ae49b4fc-5604-4b4f-a821-6bbff017b18b",
+    "from_id": "311f4e3c-61e5-474b-90d9-ca8d281336e1",
+    "from_name": "Grok",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "c50f4944-544c-44e0-9b4c-51e41d65e05b",
+    "from_id": "311f4e3c-61e5-474b-90d9-ca8d281336e1",
+    "from_name": "Grok",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "d85510b5-25d8-4c16-8269-f18c19a074e5",
+    "from_id": "de6a1b82-7bd6-497f-bdcf-d464982183e1",
+    "from_name": "Go to Channel",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "59b73e05-7bdf-4562-9f79-61598b085d8a",
+    "from_id": "de6a1b82-7bd6-497f-bdcf-d464982183e1",
+    "from_name": "Go to Channel",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Collections"
+  },
+  {
+    "id": "8d78a994-2e0d-44e5-893a-a2e7104d5057",
+    "from_id": "518f9624-7e8d-4c86-8f04-0310e674a0ca",
+    "from_name": "Replit – Build apps and sites with AI - Replit",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "e7389a26-47c4-4817-852b-c7781b1bd446",
+    "from_id": "9cb42531-c4ee-4102-a060-e8c4d5d21123",
+    "from_name": "The AI workspace that works for you. | Notion",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "098e9a71-38de-4e18-8413-e005fdf47310",
+    "from_id": "9cb42531-c4ee-4102-a060-e8c4d5d21123",
+    "from_name": "The AI workspace that works for you. | Notion",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Personal"
+  },
+  {
+    "id": "2d3284ed-f824-4376-9d63-e99d303789be",
+    "from_id": "d752d146-e634-4ae3-80ad-8ee58c9c6c3b",
+    "from_name": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "2a36b1f7-2f0b-41a9-9cb2-914f2704a5fc",
+    "from_id": "d752d146-e634-4ae3-80ad-8ee58c9c6c3b",
+    "from_name": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Creative"
+  },
+  {
+    "id": "73646f27-6224-400c-8fc4-87e2ba2ba89a",
+    "from_id": "e4c88bc2-4cbc-4e0c-a0f5-7c9023205514",
+    "from_name": "Runway | Building Real-World Intelligence",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Tools"
+  },
+  {
+    "id": "ce53b9f5-143d-499b-9c93-53f59e975d94",
+    "from_id": "e4c88bc2-4cbc-4e0c-a0f5-7c9023205514",
+    "from_name": "Runway | Building Real-World Intelligence",
+    "relation": "solves",
+    "to_id": null,
+    "to_name": "Creative"
+  }
+]
